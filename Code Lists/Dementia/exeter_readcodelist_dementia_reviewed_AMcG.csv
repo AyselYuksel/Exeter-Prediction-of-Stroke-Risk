@@ -1,0 +1,181 @@
+readcode,term_readcode,cal,os,matchtotal,MedCodeId,Term,OriginalReadCode,CleansedReadCode,SnomedCTConceptId,SnomedCTDescriptionId,Release,EmisCodeCategoryId,final_readcode,include
+E000.,Uncomplicated senile dementia,1,1,2,294635013,Uncomplicated senile dementia,E000,E000.00,191449005,294635013,NA,32,E000.00,1
+E000.,Uncomplicated senile dementia,1,1,2,8.82E+14,Senile dementia - simple type,E000-99,E000.99,191449005,8.82E+14,NA,32,E000.99,1
+E0010,Uncomplicated presenile dementia,1,1,2,294637017,Uncomplicated presenile dementia,E0010,E001000,191451009,294637017,NA,32,E001000,1
+E0011,Presenile dementia with delirium,1,1,2,294638010,Presenile dementia with delirium,E0011,E001100,191452002,294638010,NA,32,E001100,1
+E0012,Presenile dementia with paranoia,1,1,2,294641018,Presenile dementia with paranoia,E0012,E001200,191454001,294641018,NA,32,E001200,1
+E0013,Presenile dementia with depression,1,1,2,294642013,Presenile dementia with depression,E0013,E001300,191455000,294642013,NA,32,E001300,1
+E001.,Presenile dementia,1,1,2,21256010,Presenile dementia,E001,E001.00,12348006,21256010,NA,32,E001.00,1
+E001z,Presenile dementia NOS,1,1,2,294643015,Presenile dementia NOS,E001z,E001z00,12348006,21256010,NA,32,E001z00,1
+E0020,Senile dementia with paranoia,1,1,2,294645010,Senile dementia with paranoia,E0020,E002000,191458003,294645010,NA,32,E002000,1
+E0021,Senile dementia with depression,1,1,2,294646011,Senile dementia with depression,E0021,E002100,191459006,294646011,NA,32,E002100,1
+E002.,Senile dementia with depressive or paranoid features,1,1,2,294644014,Senile dementia with depressive or paranoid features,E002,E002.00,191457008,294644014,NA,32,E002.00,1
+E002z,Senile dementia with depressive or paranoid features NOS,1,1,2,294647019,Senile dementia with depressive or paranoid features NOS,E002z,E002z00,191457008,294644014,NA,32,E002z00,1
+E003.,Senile dementia with delirium,1,1,2,294648012,Senile dementia with delirium,E003,E003.00,191461002,294648012,NA,32,E003.00,1
+E003.,Senile dementia with delirium,1,1,2,8.82E+14,Senile dementia-acute confused,E003-99,E003.99,191461002,8.82E+14,NA,32,E003.99,1
+E0040,Uncomplicated arteriosclerotic dementia,1,1,2,294652012,Uncomplicated arteriosclerotic dementia,E0040,E004000,191463004,294652012,NA,32,E004000,1
+E0041,Arteriosclerotic dementia with delirium,1,1,2,294653019,Arteriosclerotic dementia with delirium,E0041,E004100,191464005,294653019,NA,32,E004100,1
+E0042,Arteriosclerotic dementia with paranoia,1,1,2,294654013,Arteriosclerotic dementia with paranoia,E0042,E004200,191465006,294654013,NA,32,E004200,1
+E0043,Arteriosclerotic dementia with depression,1,1,2,294655014,Arteriosclerotic dementia with depression,E0043,E004300,191466007,294655014,NA,32,E004300,1
+E004.,Arteriosclerotic dementia,1,1,2,497559016,Arteriosclerotic dementia,E004,E004.00,56267009,497559016,NA,32,E004.00,1
+E004.,Arteriosclerotic dementia,1,1,2,6.96E+14,Multi-infarct dementia,E004-1,E004.11,56267009,93568017,NA,32,E004.11,1
+E004z,Arteriosclerotic dementia NOS,1,1,2,294656010,Arteriosclerotic dementia NOS,E004z,E004z00,56267009,497559016,NA,32,E004z00,1
+E00..,Senile and presenile organic psychotic conditions,1,1,2,26545010,Senile dementia,E00-1,E00..11,15662003,26545010,NA,32,E00..11,1
+E00..,Senile and presenile organic psychotic conditions,1,1,2,401757012,Senile and presenile organic psychotic conditions,E00,E00..00,268612007,401757012,NA,32,E00..00,1
+E00..,Senile and presenile organic psychotic conditions,1,1,2,8.82E+14,Other senile/presenile dement.,E00-98,E00..98,268612007,8.82E+14,NA,32,E00..98,1
+E00..,Senile and presenile organic psychotic conditions,1,1,2,8.82E+14,Senile and presenile dementias,E00-99,E00..99,268612007,8.82E+14,NA,32,E00..99,1
+E00..,Senile and presenile organic psychotic conditions,1,1,2,1.48E+14,Senile/presenile dementia,E00-2,E00..12,52448006,87274019,NA,32,E00..12,1
+E00..,Senile and presenile organic psychotic conditions,1,1,2,8.82E+14,Dementia,E00-97,E00..97,268612007,8.82E+14,NA,32,E00..97,1
+E00y.,Other senile and presenile organic psychoses,1,1,2,346897015,Presbyophrenic psychosis,E00y-1,E00y.11,231438001,346897015,NA,32,E00y.11,1
+E00y.,Other senile and presenile organic psychoses,1,1,2,401759010,Other senile and presenile organic psychoses,E00y,E00y.00,268612007,401757012,NA,32,E00y.00,1
+E00z.,Senile or presenile psychoses NOS,1,1,2,294660013,Senile or presenile psychoses NOS,E00z,E00z.00,268612007,401757012,NA,32,E00z.00,1
+E041.,Dementia in conditions EC,1,1,2,294718018,Dementia in conditions EC,E041,E041.00,191519005,294718018,NA,32,E041.00,1
+Eu001,[X]Dementia in Alzheimer's disease with late onset,1,1,2,4.23E+14,"[X]Primary degen dementia of Alzheimer's type, senile onset",Eu001-3,Eu00113,416975007,2957137018,NA,32,Eu00113,1
+Eu001,[X]Dementia in Alzheimer's disease with late onset,1,1,2,4.26E+14,"[X]Senile dementia,Alzheimer's type",Eu001-2,Eu00112,416975007,2957124016,NA,32,Eu00112,1
+Eu001,[X]Dementia in Alzheimer's disease with late onset,1,1,2,3.77E+14,Dementia in Alzheimer's disease with late onset,Eu001,Eu00100,416975007,2957137018,NA,32,Eu00100,1
+Eu001,[X]Dementia in Alzheimer's disease with late onset,1,1,2,3.63E+14,[X]Alzheimer's disease type 1,Eu001-1,Eu00111,416975007,2957137018,NA,32,Eu00111,1
+Eu002,"[X]Dementia in Alzheimer's dis, atypical or mixed type",1,1,2,295671015,"[X]Dementia in Alzheimer's dis, atypical or mixed type",Eu002,Eu00200,26929004,45046017,NA,32,Eu00200,1
+Eu00.,[X]Dementia in Alzheimer's disease,1,1,2,295668011,[X]Dementia in Alzheimer's disease,Eu00,Eu00.00,26929004,45046017,NA,32,Eu00.00,1
+Eu00z,"[X]Dementia in Alzheimer's disease, unspecified",1,1,2,295672010,"[X]Dementia in Alzheimer's disease, unspecified",Eu00z,Eu00z00,26929004,45046017,NA,32,Eu00z00,1
+Eu00z,"[X]Dementia in Alzheimer's disease, unspecified",1,1,2,3.63E+14,[X]Alzheimer's dementia unspec,Eu00z-1,Eu00z11,26929004,45046017,NA,32,Eu00z11,1
+Eu011,[X]Multi-infarct dementia,1,1,2,4.23E+14,[X]Predominantly cortical dementia,Eu011-1,Eu01111,56267009,93568017,NA,32,Eu01111,1
+Eu011,[X]Multi-infarct dementia,1,1,2,3.99E+14,[X]Multi-infarct dementia,Eu011,Eu01100,56267009,93568017,NA,32,Eu01100,1
+Eu01.,[X]Vascular dementia,1,1,2,4.32E+14,Vascular dementia,Eu01,Eu01.00,429998004,2770951017,NA,32,Eu01.00,1
+Eu01.,[X]Vascular dementia,1,1,2,3.64E+14,[X]Arteriosclerotic dementia,Eu01-1,Eu01.11,56267009,497559016,NA,32,Eu01.11,1
+Eu01y,[X]Other vascular dementia,1,1,2,295680015,[X]Other vascular dementia,Eu01y,Eu01y00,429998004,2770951017,NA,32,Eu01y00,1
+Eu01z,"[X]Vascular dementia, unspecified",1,1,2,295681016,"[X]Vascular dementia, unspecified",Eu01z,Eu01z00,429998004,2770951017,NA,32,Eu01z00,1
+Eu02z,[X] Unspecified dementia,1,1,2,3.59E+14,[X] Senile dementia NOS,Eu02z-4,Eu02z14,15662003,26545010,NA,32,Eu02z14,1
+Eu02z,[X] Unspecified dementia,1,1,2,3.59E+14,"[X] Senile dementia, depressed or paranoid type",Eu02z-6,Eu02z16,191457008,294644014,NA,32,Eu02z16,1
+Eu02z,[X] Unspecified dementia,1,1,2,3.59E+14,[X] Presenile psychosis NOS,Eu02z-2,Eu02z12,268612007,401757012,NA,32,Eu02z12,1
+Eu02z,[X] Unspecified dementia,1,1,2,3.59E+14,Dementia,Eu02z,Eu02z00,52448006,87274019,NA,32,Eu02z00,1
+Eu02z,[X] Unspecified dementia,1,1,2,3.59E+14,Cerebral degeneration presenting primarily with dementia,Eu02z-3,Eu02z13,279982005,417465012,NA,32,Eu02z13,1
+Eu02z,[X] Unspecified dementia,1,1,2,3.59E+14,[X] Presenile dementia NOS,Eu02z-1,Eu02z11,12348006,21256010,NA,32,Eu02z11,1
+Eu02z,[X] Unspecified dementia,1,1,2,3.59E+14,[X] Senile psychosis NOS,Eu02z-5,Eu02z15,268612007,401757012,NA,32,Eu02z15,1
+Eu041,[X]Delirium superimposed on dementia,1,1,2,295714013,[X]Delirium superimposed on dementia,Eu041,Eu04100,2776000,5694012,NA,32,Eu04100,1
+F1100,Alzheimer's disease with early onset,1,1,2,499946014,Alzheimer's disease with early onset,F1100,F110000,416780008,2957141019,NA,32,F110000,1
+F1101,Alzheimer's disease with late onset,1,1,2,500317011,Alzheimer's disease with late onset,F1101,F110100,416975007,2957124016,NA,32,F110100,1
+F110.,Alzheimer's disease,1,1,2,45046017,Alzheimer's disease,F110,F110.00,26929004,45046017,NA,32,F110.00,1
+Fyu30,[X]Other Alzheimer's disease,1,1,2,299325013,[X]Other Alzheimer's disease,Fyu30,Fyu3000,26929004,45046017,NA,32,Fyu3000,1
+1461,H/O: dementia,1,0,1,251625013,H/O: dementia,1461,1461,161465002,251625013,NA,32,1461,1
+66h..,Dementia monitoring,1,0,1,4.07E+14,Dementia monitoring,66h,66h..00,2.49E+14,4.07E+14,NA,1,66h..00,0
+6AB..,Dementia annual review,1,0,1,4.08E+14,Dementia annual review,6AB,6AB..00,2.49E+14,4.08E+14,NA,1,6AB..00,0
+8CMZ.,Dementia care plan,1,0,1,2.25E+15,Dementia care plan,8CMZ,8CMZ.00,736371006,3517265010,NA,32,8CMZ.00,0
+9hD0.,Excepted from dementia quality indicators: Patient unsuitabl,1,0,1,1.00E+15,Excepted from dementia quality indicators - patient unsuitable,9hD0,9hD0.00,7.16E+14,1.57E+15,NA,37,9hD0.00,0
+9hD1.,Excepted from dementia quality indicators: Informed dissent,1,0,1,2.94E+14,Excepted from dementia quality indicators - informed dissent,9hD1,9hD1.00,7.16E+14,1.57E+15,NA,37,9hD1.00,0
+9hD..,Exception reporting: dementia quality indicators,1,0,1,2.94E+14,Exception reporting - dementia quality indicators,9hD,9hD..00,7.16E+14,1.57E+15,NA,37,9hD..00,0
+9Ou1.,Dementia monitoring first letter,1,0,1,4.08E+14,Dementia monitoring first letter,9Ou1,9Ou1.00,7.16E+14,1.57E+15,NA,37,9Ou1.00,0
+9Ou2.,Dementia monitoring second letter,1,0,1,4.08E+14,Dementia monitoring second letter,9Ou2,9Ou2.00,7.17E+14,1.57E+15,NA,37,9Ou2.00,0
+9Ou3.,Dementia monitoring third letter,1,0,1,4.08E+14,Dementia monitoring third letter,9Ou3,9Ou3.00,7.17E+14,1.57E+15,NA,37,9Ou3.00,0
+9Ou4.,Dementia monitoring verbal invite,1,0,1,4.08E+14,Dementia monitoring verbal invitation,9Ou4,9Ou4.00,7.16E+14,1.57E+15,NA,37,9Ou4.00,0
+9Ou5.,Dementia monitoring telephone invite,1,0,1,4.09E+14,Dementia monitoring telephone invitation,9Ou5,9Ou5.00,7.17E+14,1.57E+15,NA,37,9Ou5.00,0
+9Ou..,Dementia monitoring administration,1,0,1,4.07E+14,Dementia monitoring administration,9Ou,9Ou..00,7.14E+14,1.57E+15,NA,37,9Ou..00,0
+Eu000,[X]Dementia in Alzheimer's disease with early onset,1,0,1,4.23E+14,"[X]Presenile dementia,Alzheimer's type",Eu000-1,Eu00011,416780008,2957138011,NA,32,Eu00011,1
+Eu000,[X]Dementia in Alzheimer's disease with early onset,1,0,1,4.23E+14,"[X]Primary degen dementia, Alzheimer's type, presenile onset",Eu000-2,Eu00012,416780008,2957119019,NA,32,Eu00012,1
+Eu000,[X]Dementia in Alzheimer's disease with early onset,1,0,1,3.77E+14,Dementia in Alzheimer's disease with early onset,Eu000,Eu00000,416780008,2957119019,NA,32,Eu00000,1
+Eu000,[X]Dementia in Alzheimer's disease with early onset,1,0,1,3.63E+14,[X]Alzheimer's disease type 2,Eu000-3,Eu00013,416780008,2957119019,NA,32,Eu00013,1
+Eu010,[X]Vascular dementia of acute onset,1,0,1,4.32E+14,Vascular dementia of acute onset,Eu010,Eu01000,230285003,345110014,NA,32,Eu01000,1
+Eu012,[X]Subcortical vascular dementia,1,0,1,4.28E+14,Subcortical vascular dementia,Eu012,Eu01200,230286002,345111013,NA,32,Eu01200,1
+Eu013,[X]Mixed cortical and subcortical vascular dementia,1,0,1,3.99E+14,Mixed cortical and subcortical vascular dementia,Eu013,Eu01300,230287006,345112018,NA,32,Eu01300,1
+ZS7C5,Language disorder of dementia,1,0,1,NA,NA,NA,NA,NA,NA,NA,NA,ZS7C5,1
+1461,H/O: dementia,0,1,1,NA,NA,NA,NA,NA,NA,NA,NA,1461,1
+A410.,Kuru,0,1,1,142920010,Kuru,A410,A410.00,86188000,142920010,NA,32,A410.00,1
+A411.,Creutzfeldt-Jakob disease,0,1,1,2386018,Jakob-Creutzfeldt disease,A411,A411.00,792004,2386018,NA,32,A411.00,1
+E011.,Korsakov psychosis,0,1,1,4.76E+14,Alcohol amnestic syndrome,E011,E011.00,69482004,501300010,NA,32,E011.00,1
+E0110,Korsakov psychosis,0,1,1,7.53E+14,Korsakov alcoholic psychosis,E0110,E011000,69482004,501296014,NA,32,E011000,1
+E0111,Korsakov's alcoholic psychosis with peripheral neuritis,0,1,1,294662017,Korsakov's alcoholic psychosis with peripheral neuritis,E0111,E011100,191471000,294662017,NA,32,E011100,1
+E0112,Wernicke-Korsakov syndrome,0,1,1,501294012,Wernicke-Korsakov syndrome,E0112,E011200,69482004,501294012,NA,32,E011200,1
+E011z,Alcohol amnestic syndrome NOS,0,1,1,294664016,Alcohol amnestic syndrome NOS,E011z,E011z00,73097000,121405015,NA,32,E011z00,1
+E012.,Alcoholic dementia: [other] or [NOS],0,1,1,346929012,Alcoholic dementia,E012-1,E012.11,281004,1225776018,NA,32,E012.11,1
+E012.,Alcoholic dementia: [other] or [NOS],0,1,1,401760017,Other alcoholic dementia,E012,E012.00,281004,1225776018,NA,32,E012.00,1
+E040.,Korsakoff's syndrome - non-alcoholic,0,1,1,7.53E+14,Korsakoff's syndrome - non-alcoholic,E040-1,E040.11,17262008,1221499012,NA,32,E040.11,1
+E040.,Korsakoff's syndrome - non-alcoholic,0,1,1,1221500015,Non-alcoholic amnestic syndrome,E040,E040.00,17262008,1221500015,NA,32,E040.00,1
+Eu02.,[X]Dementia in other diseases classified elsewhere,0,1,1,295684012,Dementia associated with another disease,Eu02,Eu02.00,191519005,2547722017,NA,32,Eu02.00,1
+Eu020,[X]Dementia in Pick's disease,0,1,1,295685013,Dementia due to Pick's disease,Eu020,Eu02000,2.19E+13,2968126015,NA,32,Eu02000,1
+Eu021,[X]Dementia in Creutzfeldt-Jakob disease,0,1,1,295686014,Dementia due to Creutzfeldt Jakob disease,Eu021,Eu02100,429458009,2695885013,NA,32,Eu02100,1
+Eu022,[X]Dementia in Huntington's disease,0,1,1,295687017,Dementia due to Huntington chorea,Eu022,Eu02200,442344002,2820374011,NA,32,Eu02200,1
+Eu023,[X]Dementia in Parkinson's disease,0,1,1,295688010,Dementia in Parkinsons disease,Eu023,Eu02300,425390006,2921040013,NA,32,Eu02300,1
+Eu02y,[X]Dementia in other specified diseases classif elsewhere,0,1,1,295690011,[X]Dementia in other specified diseases classif elsewhere,Eu02y,Eu02y00,191519005,2547722017,NA,32,Eu02y00,1
+F111.,Pick's disease,0,1,1,22408016,Pick's disease,F111,F111.00,13092008,22408016,NA,32,F111.00,1
+F11x7,Cerebral degeneration due to Creutzfeldt-Jakob disease,0,1,1,5.43E+14,Cerebral degeneration due to Jakob - Creutzfeldt disease,F11x7,F11x700,192818008,297019011,NA,32,F11x700,1
+F11x8,Cerebral degeneration due to multifocal leucoencephalopathy,0,1,1,5.43E+14,Cerebral degeneration due to progressive multifocal leucoencephalopathy,F11x8,F11x800,192819000,297021018,NA,32,F11x800,1
+F21y2,Binswanger's disease,0,1,1,149347010,Binswanger's disease,F21y2,F21y200,90099008,149347010,NA,32,F21y200,1
+F21y2,Binswanger's disease,0,1,1,1235534016,Binswanger's encephalopathy,F21y2-1,F21y211,90099008,1235534016,NA,32,F21y211,1
+Ub1T6,Language disorder of dementia,0,1,1,NA,NA,NA,NA,NA,NA,NA,NA,Ub1T6,1
+X002m,Amyotrophic lateral sclerosis with dementia,0,1,1,NA,NA,NA,NA,NA,NA,NA,NA,X002m,1
+X002w,Dementia,0,1,1,NA,NA,NA,NA,NA,NA,NA,NA,X002w,1
+X002x,Dementia in Alzheimer's disease with early onset,0,1,1,NA,NA,NA,NA,NA,NA,NA,NA,X002x,1
+X002y,Familial Alzheimer's disease of early onset,0,1,1,NA,NA,NA,NA,NA,NA,NA,NA,X002y,1
+X002z,Non-familial Alzheimer's disease of early onset,0,1,1,NA,NA,NA,NA,NA,NA,NA,NA,X002z,1
+X0030,Dementia in Alzheimer's disease with late onset,0,1,1,NA,NA,NA,NA,NA,NA,NA,NA,X0030,1
+X0031,Familial Alzheimer's disease of late onset,0,1,1,NA,NA,NA,NA,NA,NA,NA,NA,X0031,1
+X0032,Non-familial Alzheimer's disease of late onset,0,1,1,NA,NA,NA,NA,NA,NA,NA,NA,X0032,1
+X0033,Focal Alzheimer's disease,0,1,1,NA,NA,NA,NA,NA,NA,NA,NA,X0033,1
+X0034,Frontotemporal dementia,0,1,1,NA,NA,NA,NA,NA,NA,NA,NA,X0034,1
+X0035,Pick's disease with Pick bodies,0,1,1,NA,NA,NA,NA,NA,NA,NA,NA,X0035,1
+X0036,Pick's disease with Pick cells and no Pick bodies,0,1,1,NA,NA,NA,NA,NA,NA,NA,NA,X0036,1
+X0037,Frontotemporal degeneration,0,1,1,NA,NA,NA,NA,NA,NA,NA,NA,X0037,1
+X0039,Frontal lobe degeneration with motor neurone disease,0,1,1,NA,NA,NA,NA,NA,NA,NA,NA,X0039,1
+X003A,Lewy body disease,0,1,1,NA,NA,NA,NA,NA,NA,NA,NA,X003A,1
+X003G,Progressive aphasia in Alzheimer's disease,0,1,1,NA,NA,NA,NA,NA,NA,NA,NA,X003G,1
+X003H,Argyrophilic brain disease,0,1,1,NA,NA,NA,NA,NA,NA,NA,NA,X003H,1
+X003I,Post-traumatic dementia,0,1,1,NA,NA,NA,NA,NA,NA,NA,NA,X003I,1
+X003J,Punch drunk syndrome,0,1,1,NA,NA,NA,NA,NA,NA,NA,NA,X003J,1
+X003K,Spongiform encephalopathy,0,1,1,NA,NA,NA,NA,NA,NA,NA,NA,X003K,1
+X003L,Prion protein disease,0,1,1,NA,NA,NA,NA,NA,NA,NA,NA,X003L,1
+X003M,Gerstmann-Straussler-Scheinker syndrome,0,1,1,NA,NA,NA,NA,NA,NA,NA,NA,X003M,1
+X003P,Acquired immune deficiency syndrome dementia complex,0,1,1,NA,NA,NA,NA,NA,NA,NA,NA,X003P,1
+X003R,Vascular dementia of acute onset,0,1,1,NA,NA,NA,NA,NA,NA,NA,NA,X003R,1
+X003T,Subcortical vascular dementia,0,1,1,NA,NA,NA,NA,NA,NA,NA,NA,X003T,1
+X003V,Mixed cortical and subcortical vascular dementia,0,1,1,NA,NA,NA,NA,NA,NA,NA,NA,X003V,1
+X003W,Semantic dementia,0,1,1,NA,NA,NA,NA,NA,NA,NA,NA,X003W,1
+X003X,Patchy dementia,0,1,1,NA,NA,NA,NA,NA,NA,NA,NA,X003X,1
+X003Y,Epileptic dementia,0,1,1,NA,NA,NA,NA,NA,NA,NA,NA,X003Y,1
+X003l,Parkinson's disease - dementia complex on Guam,0,1,1,NA,NA,NA,NA,NA,NA,NA,NA,X003l,1
+X00R0,Presbyophrenic psychosis,0,1,1,NA,NA,NA,NA,NA,NA,NA,NA,X00R0,1
+X00R2,Senile dementia,0,1,1,NA,NA,NA,NA,NA,NA,NA,NA,X00R2,1
+X00Rk,Alcoholic dementia NOS,0,1,1,NA,NA,NA,NA,NA,NA,NA,NA,X00Rk,1
+X73mf,Creutzfeldt-Jakob disease agent,0,1,1,NA,NA,NA,NA,NA,NA,NA,NA,X73mf,1
+X73mj,Bovine spongiform encephalopathy agent,0,1,1,NA,NA,NA,NA,NA,NA,NA,NA,X73mj,1
+XE1Xr,Senile and presenile organic psychotic conditions,0,1,1,NA,NA,NA,NA,NA,NA,NA,NA,XE1Xr,1
+XE1Xs,Vascular dementia,0,1,1,NA,NA,NA,NA,NA,NA,NA,NA,XE1Xs,1
+XE1Xt,Other senile and presenile organic psychoses,0,1,1,NA,NA,NA,NA,NA,NA,NA,NA,XE1Xt,1
+XE1Xu,Other alcoholic dementia,0,1,1,NA,NA,NA,NA,NA,NA,NA,NA,XE1Xu,1
+XE1Z6,[X]Unspecified dementia,0,1,1,NA,NA,NA,NA,NA,NA,NA,NA,XE1Z6,1
+XE1aG,Dementia (& [presenile] or [senile]),0,1,1,NA,NA,NA,NA,NA,NA,NA,NA,XE1aG,1
+Xa0lH,Multi-infarct dementia,0,1,1,NA,NA,NA,NA,NA,NA,NA,NA,Xa0lH,1
+Xa0sC,Frontal lobe degeneration,0,1,1,NA,NA,NA,NA,NA,NA,NA,NA,Xa0sC,1
+Xa0sE,Dementia of frontal lobe type,0,1,1,NA,NA,NA,NA,NA,NA,NA,NA,Xa0sE,1
+Xa1GB,Cerebral degeneration presenting primarily with dementia,0,1,1,NA,NA,NA,NA,NA,NA,NA,NA,Xa1GB,1
+Xa25J,Alcoholic dementia,0,1,1,NA,NA,NA,NA,NA,NA,NA,NA,Xa25J,1
+Xa3ez,Other senile/presenile dementia,0,1,1,NA,NA,NA,NA,NA,NA,NA,NA,Xa3ez,1
+XaA1S,New variant of Creutzfeldt-Jakob disease,0,1,1,NA,NA,NA,NA,NA,NA,NA,NA,XaA1S,1
+XaE74,Senile dementia of the Lewy body type,0,1,1,NA,NA,NA,NA,NA,NA,NA,NA,XaE74,1
+XaIKB,Alzheimer's disease with early onset,0,1,1,NA,NA,NA,NA,NA,NA,NA,NA,XaIKB,1
+XaIKC,Alzheimer's disease with late onset,0,1,1,NA,NA,NA,NA,NA,NA,NA,NA,XaIKC,1
+XaKyY,[X]Lewy body dementia,0,1,1,NA,NA,NA,NA,NA,NA,NA,NA,XaKyY,1
+XaLFf,Exception reporting: dementia quality indicators,0,1,1,NA,NA,NA,NA,NA,NA,NA,NA,XaLFf,0
+XaLFo,Excepted from dementia quality indicators: Patient unsuitabl,0,1,1,NA,NA,NA,NA,NA,NA,NA,NA,XaLFo,0
+XaLFp,Excepted from dementia quality indicators: Informed dissent,0,1,1,NA,NA,NA,NA,NA,NA,NA,NA,XaLFp,0
+XaMAo,Prion protein markers for Creutzfeldt-Jakob disease,0,1,1,NA,NA,NA,NA,NA,NA,NA,NA,XaMAo,1
+XaMFy,Dementia monitoring administration,0,1,1,NA,NA,NA,NA,NA,NA,NA,NA,XaMFy,0
+XaMG0,Dementia monitoring first letter,0,1,1,NA,NA,NA,NA,NA,NA,NA,NA,XaMG0,0
+XaMGF,Dementia annual review,0,1,1,NA,NA,NA,NA,NA,NA,NA,NA,XaMGF,0
+XaMGG,Dementia monitoring second letter,0,1,1,NA,NA,NA,NA,NA,NA,NA,NA,XaMGG,0
+XaMGI,Dementia monitoring third letter,0,1,1,NA,NA,NA,NA,NA,NA,NA,NA,XaMGI,0
+XaMGJ,Dementia monitoring verbal invite,0,1,1,NA,NA,NA,NA,NA,NA,NA,NA,XaMGJ,0
+XaMGK,Dementia monitoring telephone invite,0,1,1,NA,NA,NA,NA,NA,NA,NA,NA,XaMGK,0
+XaMJC,Dementia monitoring,0,1,1,NA,NA,NA,NA,NA,NA,NA,NA,XaMJC,0
+XaZWz,Participates in Butterfly Scheme for dementia,0,1,1,NA,NA,NA,NA,NA,NA,NA,NA,XaZWz,0
+XaZX0,Butterfly Scheme for dementia declined,0,1,1,NA,NA,NA,NA,NA,NA,NA,NA,XaZX0,0
+XabVp,Sporadic Creutzfeldt-Jakob disease,0,1,1,NA,NA,NA,NA,NA,NA,NA,NA,XabVp,1
+XabtQ,Dementia medication review,0,1,1,NA,NA,NA,NA,NA,NA,NA,NA,XabtQ,0
+Xaghb,Predominantly cortical dementia,0,1,1,NA,NA,NA,NA,NA,NA,NA,NA,Xaghb,1
+Y000c,Dementia review done,0,1,1,NA,NA,NA,NA,NA,NA,NA,NA,Y000c,0
+Y1f1d,Dementia monitoring invitation,0,1,1,NA,NA,NA,NA,NA,NA,NA,NA,Y1f1d,0
+Y1f22,Dementia monitoring invitation,0,1,1,NA,NA,NA,NA,NA,NA,NA,NA,Y1f22,0
+Y1f98,Quality and Outcomes Framework dementia quality indicator-related care invitation (procedure),0,1,1,NA,NA,NA,NA,NA,NA,NA,NA,Y1f98,0
+Y23fb,Mixed dementia,0,1,1,NA,NA,NA,NA,NA,NA,NA,NA,Y23fb,1
+Y6230,Creutzfeldt - Jakob disease,0,1,1,NA,NA,NA,NA,NA,NA,NA,NA,Y6230,1
+Y8180,Other senile/presenile dement.,0,1,1,NA,NA,NA,NA,NA,NA,NA,NA,Y8180,1
+Y9086,Senile dementia - simple type,0,1,1,NA,NA,NA,NA,NA,NA,NA,NA,Y9086,1
+Y9087,Senile dementia-acute confused,0,1,1,NA,NA,NA,NA,NA,NA,NA,NA,Y9087,1

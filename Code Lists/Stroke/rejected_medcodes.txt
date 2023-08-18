@@ -1,0 +1,492 @@
+medcodeid	ReadCode	SNOMEDCTCodes	OriginalReadCode	CleansedReadCode	term_medcode	category
+6720781000006110	NA	405949009	^ESCTNU672078	NA	Nuchal rigidity due to subarachnoid haemorrhage	haemorrhagic
+6720791000006113	NA	405949009	^ESCTNU672079	NA	Nuchal rigidity due to subarachnoid hemorrhage	haemorrhagic
+2583451000006111	NA	5251007	^ESCTSU258345	NA	Subarachnoid hemorrhage following injury with open intracranial wound	haemorrhagic
+3284981000006111	NA	48518008	^ESCTSU328498	NA	Subarachnoid haemorrhage following injury with open intracranial wound AND concussion	haemorrhagic
+3284991000006114	NA	48518008	^ESCTSU328499	NA	Subarachnoid hemorrhage following injury with open intracranial wound AND concussion	haemorrhagic
+3727871000006112	NA	75507000	^ESCTSU372787	NA	Subarachnoid haemorrhage following injury with open intracranial wound AND loss of consciousness	haemorrhagic
+3727881000006110	NA	75507000	^ESCTSU372788	NA	Subarachnoid hemorrhage following injury with open intracranial wound AND loss of consciousness	haemorrhagic
+4854121000006110	NA	209940000	^ESCTSU485412	NA	Subarachnoid hemorrhage following injury with open intracranial wound, with no loss of consciousness	haemorrhagic
+5011871000006119	NA	230739000	^ESCTSP501187	NA	Spinal cord stroke	ischaemic
+5455841000006112	NA	262692002	^ESCTBU545584	NA	Burst lobe of brain	haemorrhagic
+5866391000006119	NA	299403002	^ESCTST586639	NA	Stroke test positive	ischaemic
+7834611000006115	NA	722632006	^ESCTTR783461	NA	Traumatic haemorrhage of brainstem	haemorrhagic
+7834641000006116	NA	722632006	^ESCTHA783464	NA	Haemorrhage of brainstem due to traumatic injury	haemorrhagic
+8024261000006112	NA	80051000119107	^ESCTST802426	NA	Stroke care management	ischaemic
+8265471000006116	NA	817701000000103	^ESCTAC826547	NA	Acute stroke care	ischaemic
+1842021000006111	NA	261808007	EMISNQNE46	NA	Neonatal cerebral haemorrhage	haemorrhagic
+3119361000006118	NA	38453000	^ESCTCE311936	NA	Cerebral hemorrhage due to intrapartum anoxia or hypoxia	haemorrhagic
+316153011	Q2007	206196005	Q2007	Q200700	Cerebral haemorrhage due to birth injury	haemorrhagic
+316516014	Q4113	206398001	Q4113	Q411300	Intraventricular haemorrhage due to birth injury	haemorrhagic
+359985011	Q2000	240313004	Q2000-1	Q200011	Intracerebral haemorrhage in foetus or newborn	haemorrhagic
+3648481000006115	NA	70611002	^ESCTPE364848	NA	Perinatal intraventricular hemorrhage	haemorrhagic
+3648491000006117	NA	70611002	^ESCTIN364849	NA	Intraventricular hemorrhage from any perinatal cause	haemorrhagic
+3648501000006113	NA	70611002	^ESCTNE364850	NA	Neonatal intraventricular hemorrhage	haemorrhagic
+3648511000006111	NA	70611002	^ESCTIN364851	NA	Intraventricular haemorrhage from any perinatal cause	haemorrhagic
+3648521000006115	NA	70611002	^ESCTNE364852	NA	Neonatal intraventricular haemorrhage	haemorrhagic
+404771000006118	Qyu20	206196005	Qyu20	Qyu2000	[X]Other intracranial lacerations and haemorrhages due to birth injury	haemorrhagic
+449935012	8Hd6.	306803007	8Hd6	8Hd6.00	Admission to stroke unit	ischaemic
+4835931000006111	NA	206196005	^ESCTCE483593	NA	Cerebral hemorrhage due to birth injury	haemorrhagic
+4835941000006118	NA	206196005	^ESCTCE483594	NA	Cerebral hemorrhage due to birth trauma	haemorrhagic
+4835951000006116	NA	206196005	^ESCTCE483595	NA	Cerebral haemorrhage due to birth trauma	haemorrhagic
+4837401000006118	NA	206395003	^ESCTIN483740	NA	Intraventricular (nontraumatic) hemorrhage, grade 1, of fetus and newborn	haemorrhagic
+4837411000006115	NA	206395003	^ESCTIN483741	NA	Intraventricular (nontraumatic) haemorrhage, grade 1, of foetus and newborn	haemorrhagic
+4837421000006111	NA	206396002	^ESCTIN483742	NA	Intraventricular (nontraumatic) haemorrhage, grade 2, of foetus and newborn	haemorrhagic
+4837441000006116	NA	206396002	^ESCTIN483744	NA	Intraventricular (nontraumatic) hemorrhage, grade 2, of fetus and newborn	haemorrhagic
+4837451000006119	NA	206397006	^ESCTIN483745	NA	Intraventricular (nontraumatic) haemorrhage, grade 3, of foetus and newborn	haemorrhagic
+4837471000006112	NA	206397006	^ESCTIN483747	NA	Intraventricular (nontraumatic) haemorrhage, grade 3, of fetus and newborn	haemorrhagic
+4837491000006113	NA	206398001	^ESCTIN483749	NA	Intraventricular hemorrhage due to birth injury	haemorrhagic
+4837511000006119	NA	206399009	^ESCTSU483751	NA	Subarachnoid hemorrhage due to birth injury	haemorrhagic
+4837521000006110	NA	206399009	^ESCTIN483752	NA	Intracranial subarachnoid haemorrhage due to birth injury	haemorrhagic
+4837531000006113	NA	206399009	^ESCTIN483753	NA	Intracranial subarachnoid hemorrhage due to birth injury	haemorrhagic
+4837741000006113	NA	206419007	^ESCTCE483774	NA	Cerebellar (nontraumatic) and posterior fossa hemorrhage of fetus and newborn	haemorrhagic
+4837751000006110	NA	206419007	^ESCTCE483775	NA	Cerebellar (nontraumatic) and posterior fossa haemorrhage of fetus and newborn	haemorrhagic
+5111331000006119	NA	237702003	^ESCTPI511133	NA	Pituitary haemorrhage	haemorrhagic
+5111341000006112	NA	237702003	^ESCTPI511134	NA	Pituitary hemorrhage	haemorrhagic
+5146111000006110	NA	240313004	^ESCTIN514611	NA	Intracerebral haemorrhage in fetus or newborn	haemorrhagic
+5146121000006119	NA	240313004	^ESCTIN514612	NA	Intracerebral hemorrhage in fetus or newborn	haemorrhagic
+542271000006119	Q4171	206419007	Q4171	Q417100	Cerebellar (nontraumatic) and posterior fossa haemorrhage of foetus and newborn	haemorrhagic
+5445641000006113	NA	261808007	^ESCTNE544564	NA	Neonatal cerebral hemorrhage	haemorrhagic
+5588471000006111	NA	276648002	^ESCTIN558847	NA	Intraventricular haemorrhage of prematurity	haemorrhagic
+5588481000006114	NA	276648002	^ESCTIN558848	NA	Intraventricular hemorrhage of prematurity	haemorrhagic
+5588511000006118	NA	276650005	^ESCTPE558851	NA	Perinatal subependymal haemorrhage	haemorrhagic
+5588561000006115	NA	276650005	^ESCTPE558856	NA	Perinatal subependymal hemorrhage	haemorrhagic
+5588571000006110	NA	276651009	^ESCTPE558857	NA	Perinatal subependymal haemorrhage with intraventricular extension	haemorrhagic
+5588581000006113	NA	276651009	^ESCTPE558858	NA	Perinatal subependymal hemorrhage with intraventricular extension	haemorrhagic
+5588591000006111	NA	276652002	^ESCTPE558859	NA	Perinatal subependymal haemorrhage with intraventricular and intracerebral extension	haemorrhagic
+5588601000006115	NA	276652002	^ESCTPE558860	NA	Perinatal subependymal hemorrhage with intraventricular and intracerebral extension	haemorrhagic
+5731161000006111	NA	288276001	^ESCTFO573116	NA	Foetal cerebral haemorrhage	haemorrhagic
+5731171000006116	NA	288276001	^ESCTFE573117	NA	Fetal cerebral haemorrhage	haemorrhagic
+5731181000006118	NA	288276001	^ESCTFE573118	NA	Fetal cerebral hemorrhage	haemorrhagic
+5772721000006113	NA	291665000	^ESCTPO577272	NA	Postpartum intrapituitary haemorrhage	haemorrhagic
+5772731000006111	NA	291665000	^ESCTPO577273	NA	Postpartum intrapituitary hemorrhage	haemorrhagic
+6349401000006115	NA	371121002	^ESCTNE634940	NA	Neonatal stroke	ischaemic
+7085451000006112	NA	428241007	^ESCTIN708545	NA	Intraventricular haemorrhage of fetus	haemorrhagic
+7085461000006114	NA	428241007	^ESCTIN708546	NA	Intraventricular hemorrhage of fetus	haemorrhagic
+7085471000006119	NA	428241007	^ESCTVE708547	NA	Ventricular hemorrhage of fetus	haemorrhagic
+7085481000006116	NA	428241007	^ESCTIN708548	NA	Intraventricular haemorrhage of foetus	haemorrhagic
+7085491000006118	NA	428241007	^ESCTVE708549	NA	Ventricular haemorrhage of foetus	haemorrhagic
+767641000006118	Q4110	206395003	Q4110	Q411000	Intraventricular (nontraumatic) haemorrhage, grade 1, of fetus and newborn	haemorrhagic
+767651000006116	Q4111	206396002	Q4111	Q411100	Intraventricular (nontraumatic) haemorrhage, grade 2, of fetus and newborn	haemorrhagic
+767661000006119	Q4112	206397006	Q4112	Q411200	Intraventricular (nontraumatic) hemorrhage, grade 3, of fetus and newborn	haemorrhagic
+769281000006119	Q2000	240313004	Q2000-2	Q200012	Intracranial haemorrhage in fetus or newborn	haemorrhagic
+7833761000006111	NA	722580004	^ESCTFO783376	NA	Foetal or neonatal intraventricular non-traumatic haemorrhage grade 4	haemorrhagic
+7833771000006116	NA	722580004	^ESCTFE783377	NA	Fetal or neonatal intraventricular non-traumatic hemorrhage grade 4	haemorrhagic
+7833781000006118	NA	722581000	^ESCTFO783378	NA	Foetal or neonatal non-traumatic intraventricular haemorrhage	haemorrhagic
+7833791000006115	NA	722581000	^ESCTFE783379	NA	Fetal or neonatal non-traumatic intraventricular hemorrhage	haemorrhagic
+7833801000006119	NA	722582007	^ESCTFO783380	NA	Foetal or neonatal intracerebral non-traumatic haemorrhage	haemorrhagic
+7833811000006116	NA	722582007	^ESCTFE783381	NA	Fetal or neonatal intracerebral non-traumatic hemorrhage	haemorrhagic
+7833821000006112	NA	722583002	^ESCTFE783382	NA	Fetal or neonatal non-traumatic haemorrhage of subarachnoid space of brain	haemorrhagic
+7833831000006110	NA	722583002	^ESCTFE783383	NA	Fetal or neonatal non-traumatic hemorrhage of subarachnoid space of brain	haemorrhagic
+7838271000006115	NA	722929005	^ESCTPE783827	NA	Perinatal arterial ischaemic stroke	ischaemic
+7838281000006117	NA	722929005	^ESCTPE783828	NA	Perinatal arterial ischemic stroke	ischaemic
+3119351000006115	NA	38453000	^ESCTCE311935	NA	Cerebral haemorrhage due to intrapartum anoxia or hypoxia	haemorrhagic
+5588521000006114	NA	276650005	^ESCTGM558852	NA	GMH - Germinal matrix haemorrhage	haemorrhagic
+5588531000006112	NA	276650005	^ESCTGE558853	NA	Germinal matrix haemorrhage	haemorrhagic
+5588541000006119	NA	276650005	^ESCTGE558854	NA	Germinal matrix hemorrhage	haemorrhagic
+5588551000006117	NA	276650005	^ESCTGM558855	NA	GMH - Germinal matrix hemorrhage	haemorrhagic
+7834621000006111	NA	722632006	^ESCTTR783462	NA	Traumatic hemorrhage of brainstem	haemorrhagic
+7834631000006114	NA	722632006	^ESCTHE783463	NA	Hemorrhage of brainstem due to traumatic injury	haemorrhagic
+104563015	G6...	62914000	G6	G6...00	Cerebrovascular disease	EXCLUDE
+106394016	G656.	64009001	G656	G656.00	Vertebrobasilar insufficiency	EXCLUDE
+1160471000000111	662M1	519751000000106	662M1	662M100	Stroke 6 month review	EXCLUDE
+12113981000006117	NA	672551000119100	^ESCT1211398	NA	Aphasia due to and following haemorrhagic cerebrovascular accident	EXCLUDE
+12113991000006119	NA	672551000119100	^ESCT1211399	NA	Aphasia as late effect of hemorrhagic cerebrovascular accident	EXCLUDE
+12114001000006111	NA	672551000119100	^ESCT1211400	NA	Aphasia due to and following hemorrhagic cerebrovascular accident	EXCLUDE
+12114011000006114	NA	672551000119100	^ESCT1211401	NA	Aphasia as late effect of haemorrhagic cerebrovascular accident	EXCLUDE
+126301000006113	G63..	1055001	G63-2	G63..12	Stenosis of precerebral artery	EXCLUDE
+138981000000113	9h2..	716331000000108	9h2	9h2..00	Exception reporting - stroke quality indicators	EXCLUDE
+139081000000117	9h21.	716581000000101	9h21	9h21.00	Excepted from stroke quality indicators - patient unsuitable	EXCLUDE
+139091000000115	9h22.	716021000000109	9h22	9h22.00	Excepted from stroke quality indicators - informed dissent	EXCLUDE
+149551000006111	G682.	363302008	G682	G682.00	Sequelae of other nontraumatic intracranial haemorrhage	EXCLUDE
+149571000006118	G68X.	195239002	G68X	G68X.00	Sequelae of stroke,not specfd as h'morrhage or infarction	EXCLUDE
+149701000006118	G68W.	195239002	G68W	G68W.00	Sequelae/other + unspecified cerebrovascular diseases	EXCLUDE
+1780304018	662e.	699270006	662e	662e.00	CVA annual review	EXCLUDE
+1784651000006110	8IEC.	781731000000103	8IEC	8IEC.00	Referral for multidisciplinary stroke function improvement declined	EXCLUDE
+2115821000000118	661N7	810991000000109	661N7	661N700	Stroke self-management plan review	EXCLUDE
+2118011000000114	661M7	812041000000104	661M7	661M700	Stroke self-management plan agreed	EXCLUDE
+2126181000000114	662e.	699270006	6.62E+01	662e.11	Stroke annual review	EXCLUDE
+2127781000000110	662M2	816561000000108	662M2	662M200	Stroke initial post discharge review	EXCLUDE
+2476647018	N111.	34781003	N111-1	N111.11	Vertebral artery compression syndrome	EXCLUDE
+2534196010	9Om2.	415631003	9Om2	9Om2.00	Stroke/transient ischaemic attack monitoring third letter	EXCLUDE
+2534198011	G623.	35486000	G623	G623.00	Subdural haemorrhage	EXCLUDE
+2534212018	9Om1.	415629007	9Om1	9Om1.00	Stroke/transient ischaemic attack monitoring second letter	EXCLUDE
+2534253014	9Om0.	415628004	9Om0	9Om0.00	Stroke/transient ischaemic attack monitoring first letter	EXCLUDE
+2539131000006116	NA	2517002	^ESCTST253913	NA	Stroke rehabilitation	EXCLUDE
+2548554013	662o.	417506008	662o	662o.00	Haemorrhagic stroke monitoring	EXCLUDE
+264499015	662M.	170600009	662M	662M.00	Stroke monitoring	EXCLUDE
+287283010	A94y6	186893003	A94y6	A94y600	Rupture of syphilitic cerebral aneurysm	EXCLUDE
+2962811000006114	NA	28790007	^ESCTOB296281	NA	Obstruction of precerebral artery	EXCLUDE
+297013012	F11x2	192813004	F11x2	F11x200	Cerebral degeneration due to cerebrovascular disease	EXCLUDE
+2973201000006112	NA	29426003	^ESCTPA297320	NA	Paralytic syndrome	EXCLUDE
+298916015	F4K7.	194179009	F4K7	F4K7.00	Retrobulbar haemorrhage	EXCLUDE
+2989671000006114	NA	30400005	^ESCTMI298967	NA	Middle meningeal haemorrhage following injury	EXCLUDE
+2989681000006112	NA	30400005	^ESCTMI298968	NA	Middle meningeal hemorrhage following injury	EXCLUDE
+300310019	G633.	195183002	G633	G633.00	Multiple and bilateral precerebral arterial occlusion	EXCLUDE
+300311015	G63y.	266253001	G63y	G63y.00	Other precerebral artery occlusion	EXCLUDE
+300314011	G63z.	266253001	G63z	G63z.00	Precerebral artery occlusion NOS	EXCLUDE
+300344014	G653.	195200006	G653	G653.00	Carotid artery syndrome hemispheric	EXCLUDE
+300345010	G654.	195201005	G654	G654.00	Multiple and bilateral precerebral artery syndromes	EXCLUDE
+300374018	G67..	62914000	G67	G67..00	Other cerebrovascular disease	EXCLUDE
+300379011	G671z	302909007	G671z	G671z00	Generalised ischaemic cerebrovascular disease NOS	EXCLUDE
+300401011	G67y.	62914000	G67y	G67y.00	Other cerebrovascular disease OS	EXCLUDE
+300402016	G67z.	62914000	G67z	G67z.00	Other cerebrovascular disease NOS	EXCLUDE
+300403014	G68..	195239002	G68	G68..00	Late effects of cerebrovascular disease	EXCLUDE
+300406018	G680.	195240000	G680	G680.00	Sequelae of subarachnoid haemorrhage	EXCLUDE
+300407010	G681.	195241001	G681	G681.00	Sequelae of intracerebral haemorrhage	EXCLUDE
+300411016	G683.	195243003	G683	G683.00	Sequelae of cerebral infarction	EXCLUDE
+300418010	G6y..	62914000	G6y	G6y..00	Other specified cerebrovascular disease	EXCLUDE
+300419019	G6z..	62914000	G6z	G6z..00	Cerebrovascular disease NOS	EXCLUDE
+300942019	Gyu65	266253001	Gyu65	Gyu6500	[X]Occlusion and stenosis of other precerebral arteries	EXCLUDE
+300944018	Gyu67	62914000	Gyu67	Gyu6700	[X]Other specified cerebrovascular diseases	EXCLUDE
+3071661000006112	NA	35486000	^ESCTSU307166	NA	Subdural hemorrhage	EXCLUDE
+3071671000006117	NA	35486000	^ESCTSU307167	NA	Subdural intracranial hemorrhage	EXCLUDE
+3071681000006119	NA	35486000	^ESCTSU307168	NA	Subdural intracranial haemorrhage	EXCLUDE
+316130010	Q200.	206188000	Q200	Q200.00	Subdural and cerebral haemorrhage due to birth trauma	EXCLUDE
+320836010	S62..	209987007	S62-3	S62..13	Subdural haemorrhage following injury	EXCLUDE
+320852013	S62z.	450418003	S62z	S62z.00	Cerebral haemorrhage following injury NOS	EXCLUDE
+3236911000006117	NA	45639009	^ESCTHE323691	NA	Hereditary cerebral amyloid angiopathy, Icelandic type	EXCLUDE
+3236921000006113	NA	45639009	^ESCTAM323692	NA	Amyloidosis VI	EXCLUDE
+3236931000006111	NA	45639009	^ESCTIC323693	NA	Iceland type amyloidosis	EXCLUDE
+3236941000006118	NA	45639009	^ESCTIC323694	NA	Icelandic type amyloidosis	EXCLUDE
+3236951000006116	NA	45639009	^ESCTHE323695	NA	Hereditary cerebral haemorrhage with amyloidosis - Icelandic type	EXCLUDE
+3236961000006119	NA	45639009	^ESCTHE323696	NA	Hereditary cerebral hemorrhage with amyloidosis - Icelandic type	EXCLUDE
+325050015	SP100	213208008	SP100	SP10000	Anoxic brain damage complication	EXCLUDE
+3417121000006116	NA	56453003	^ESCTHE341712	NA	Hereditary cerebral amyloid angiopathy, Dutch type	EXCLUDE
+3417131000006118	NA	56453003	^ESCTHE341713	NA	Hereditary cerebral haemorrhage with amyloidosis - Dutch type	EXCLUDE
+3417141000006111	NA	56453003	^ESCTHE341714	NA	Hereditary cerebral hemorrhage with amyloidosis - Dutch type	EXCLUDE
+3417151000006113	NA	56453003	^ESCTDU341715	NA	Dutch type amyloidosis	EXCLUDE
+3432521000006116	NA	57388008	^ESCTSU343252	NA	Subarachnoid haemorrhage precautions	EXCLUDE
+3432531000006118	NA	57388008	^ESCTSU343253	NA	Subarachnoid hemorrhage precautions	EXCLUDE
+3441841000006118	NA	57981008	^ESCTST344184	NA	Stroke-in-evolution syndrome	EXCLUDE
+3503601019	NA	12367511000119101	^ESCT1172529	NA	Paraplegia as sequela of cerebrovascular accident	EXCLUDE
+3503602014	NA	12367511000119101	^ESCT1172530	NA	Paraplegia as late effect of stroke	EXCLUDE
+3504909011	NA	291681000119108	^ESCT1170736	NA	Dysphagia as sequela of non-traumatic subarachnoid hemorrhage	EXCLUDE
+3504910018	NA	291681000119108	^ESCT1170739	NA	Dysphagia as late effect of spontaneous subarachnoid hemorrhage	EXCLUDE
+3506622015	NA	290641000119107	^ESCT1170671	NA	Dysphagia due to and following non-traumatic intracerebral hemorrhage	EXCLUDE
+3506623013	NA	290641000119107	^ESCT1170669	NA	Dysphagia due to and following non-traumatic intracerebral haemorrhage	EXCLUDE
+3506624019	NA	290641000119107	^ESCT1170672	NA	Dysphagia as late effect of spontaneous intracerebral hemorrhage	EXCLUDE
+3506625018	NA	290641000119107	^ESCT1170670	NA	Dysphagia as sequela of non-traumatic intracerebral hemorrhage	EXCLUDE
+3506626017	NA	290641000119107	^ESCT1170674	NA	Dysphagia as late effect of spontaneous intracerebral haemorrhage	EXCLUDE
+3506627014	NA	290641000119107	^ESCT1170673	NA	Dysphagia as sequela of non-traumatic intracerebral haemorrhage	EXCLUDE
+3507310015	NA	15978631000119109	^ESCT1172871	NA	Bilateral vertebral artery occlusion	EXCLUDE
+3508812019	NA	290631000119103	^ESCT1170666	NA	Dysarthria due to and following cerebrovascular accident	EXCLUDE
+3508813012	NA	290631000119103	^ESCT1170668	NA	Dysarthria as late effect of stroke	EXCLUDE
+3508814018	NA	290631000119103	^ESCT1170667	NA	Dysarthria as sequela of cerebrovascular accident	EXCLUDE
+3508819011	NA	12242711000119109	^ESCT1172519	NA	Weakness of left facial muscle as sequela of cerebrovascular accident	EXCLUDE
+3508820017	NA	12242711000119109	^ESCT1172521	NA	Left facial weakness as late effect of stroke	EXCLUDE
+3508822013	NA	674381000119108	^ESCT1171092	NA	Weakness of facial muscle as sequela of ischemic cerebrovascular accident	EXCLUDE
+3508823015	NA	674381000119108	^ESCT1171091	NA	Weakness of facial muscle as sequela of ischaemic cerebrovascular accident	EXCLUDE
+3508824014	NA	674381000119108	^ESCT1171093	NA	Facial weakness as late effect of ischemic stroke	EXCLUDE
+3508829016	NA	15982271000119104	^ESCT1172880	NA	Weakness of right facial muscle as sequela of cerebrovascular disease	EXCLUDE
+3508830014	NA	15982271000119104	^ESCT1172881	NA	Right facial weakness as late effect of cerebrovascular disease	EXCLUDE
+3508832018	NA	12242751000119105	^ESCT1172522	NA	Weakness of right facial muscle as sequela of cerebrovascular accident	EXCLUDE
+3508833011	NA	12242751000119105	^ESCT1172523	NA	Right facial weakness as late effect of stroke	EXCLUDE
+3508835016	NA	15982311000119104	^ESCT1172883	NA	Weakness of left facial muscle as sequela of cerebrovascular disease	EXCLUDE
+3508836015	NA	15982311000119104	^ESCT1172885	NA	Left facial weakness as late effect of cerebrovascular disease	EXCLUDE
+3508853010	NA	672521000119108	^ESCT1171047	NA	Dysphasia due to and following ischemic cerebrovascular accident	EXCLUDE
+3508854016	NA	672521000119108	^ESCT1171046	NA	Dysphasia due to and following ischaemic cerebrovascular accident	EXCLUDE
+3508855015	NA	672521000119108	^ESCT1171049	NA	Dysphasia as late effect of ischemic stroke	EXCLUDE
+3508856019	NA	672521000119108	^ESCT1171050	NA	Dysphasia as sequela of ischemic cerebrovascular accident	EXCLUDE
+3508857011	NA	672521000119108	^ESCT1171048	NA	Dysphasia as late effect of ischaemic stroke	EXCLUDE
+3508858018	NA	672521000119108	^ESCT1171051	NA	Dysphasia as sequela of ischaemic cerebrovascular accident	EXCLUDE
+3508860016	NA	16260551000119106	^ESCT1173144	NA	Dysphasia due to and following cerebrovascular accident	EXCLUDE
+3508861017	NA	16260551000119106	^ESCT1173146	NA	Dysphasia as late effect of stroke	EXCLUDE
+3508862012	NA	16260551000119106	^ESCT1173145	NA	Dysphasia as sequela of cerebrovascular accident	EXCLUDE
+3508864013	NA	290621000119101	^ESCT1170664	NA	Cognitive deficit due to and following cerebrovascular disease	EXCLUDE
+3508865014	NA	290621000119101	^ESCT1170665	NA	Cognitive deficit as sequela of cerebrovascular disease	EXCLUDE
+3508867018	NA	690341000119100	^ESCT1171136	NA	Cognitive deficit due to and following embolic cerebrovascular accident	EXCLUDE
+3508868011	NA	690341000119100	^ESCT1171138	NA	Cognitive deficit as late effect of embolic stroke	EXCLUDE
+3508869015	NA	690341000119100	^ESCT1171137	NA	Cognitive deficit as sequela of embolic cerebrovascular accident	EXCLUDE
+3508871015	NA	672511000119101	^ESCT1171043	NA	Dysarthria due to and following hemorrhagic cerebrovascular accident	EXCLUDE
+3508872010	NA	672511000119101	^ESCT1171040	NA	Dysarthria due to and following haemorrhagic cerebrovascular accident	EXCLUDE
+3508873017	NA	672511000119101	^ESCT1171042	NA	Dysarthria as late effect of hemorrhagic stroke	EXCLUDE
+3508874011	NA	672511000119101	^ESCT1171045	NA	Dysarthria as sequela of hemorrhagic cerebrovascular accident	EXCLUDE
+3508875012	NA	672511000119101	^ESCT1171041	NA	Dysarthria as late effect of haemorrhagic stroke	EXCLUDE
+3508876013	NA	672511000119101	^ESCT1171044	NA	Dysarthria as sequela of haemorrhagic cerebrovascular accident	EXCLUDE
+3508889019	NA	672571000119109	^ESCT1171069	NA	Cognitive deficit due to and following hemorrhagic cerebrovascular accident	EXCLUDE
+3508890011	NA	672571000119109	^ESCT1171064	NA	Cognitive deficit due to and following haemorrhagic cerebrovascular accident	EXCLUDE
+3508891010	NA	672571000119109	^ESCT1171065	NA	Cognitive deficit as late effect of hemorrhagic stroke	EXCLUDE
+3508892015	NA	672571000119109	^ESCT1171066	NA	Cognitive deficit as sequela of hemorrhagic cerebrovascular accident	EXCLUDE
+3508893013	NA	672571000119109	^ESCT1171068	NA	Cognitive deficit as late effect of haemorrhagic stroke	EXCLUDE
+3508894019	NA	672571000119109	^ESCT1171067	NA	Cognitive deficit as sequela of haemorrhagic cerebrovascular accident	EXCLUDE
+3508896017	NA	690351000119103	^ESCT1171139	NA	Dysphasia due to and following embolic cerebrovascular accident	EXCLUDE
+3508897014	NA	690351000119103	^ESCT1171140	NA	Dysphasia as late effect of embolic stroke	EXCLUDE
+3508898016	NA	690351000119103	^ESCT1171141	NA	Dysphasia as sequela of embolic cerebrovascular accident	EXCLUDE
+3508900019	NA	672561000119103	^ESCT1171061	NA	Cognitive deficit due to and following ischemic cerebrovascular accident	EXCLUDE
+3508901015	NA	672561000119103	^ESCT1171058	NA	Cognitive deficit due to and following ischaemic cerebrovascular accident	EXCLUDE
+3508902010	NA	672561000119103	^ESCT1171060	NA	Cognitive deficit as late effect of ischemic stroke	EXCLUDE
+3508903017	NA	672561000119103	^ESCT1171063	NA	Cognitive deficit as sequela of ischemic cerebrovascular accident	EXCLUDE
+3508904011	NA	672561000119103	^ESCT1171059	NA	Cognitive deficit as late effect of ischaemic stroke	EXCLUDE
+3508905012	NA	672561000119103	^ESCT1171062	NA	Cognitive deficit as sequela of ischaemic cerebrovascular accident	EXCLUDE
+3508907016	NA	291711000119109	^ESCT1170745	NA	Cognitive deficit due to and following nontraumatic intracerebral hemorrhage	EXCLUDE
+3508908014	NA	291711000119109	^ESCT1170740	NA	Cognitive deficit due to and following nontraumatic intracerebral haemorrhage	EXCLUDE
+3508909018	NA	291711000119109	^ESCT1170743	NA	Cognitive deficit as late effect of spontaneous intracerebral hemorrhage	EXCLUDE
+3508910011	NA	291711000119109	^ESCT1170741	NA	Cognitive deficit as sequela of nontraumatic intracerebral hemorrhage	EXCLUDE
+3508911010	NA	291711000119109	^ESCT1170744	NA	Cognitive deficit as late effect of spontaneous intracerebral haemorrhage	EXCLUDE
+3508912015	NA	291711000119109	^ESCT1170742	NA	Cognitive deficit as sequela of nontraumatic intracerebral haemorrhage	EXCLUDE
+3508914019	NA	291621000119109	^ESCT1170726	NA	Cognitive deficit due to and following nontraumatic subarachnoid hemorrhage	EXCLUDE
+3508915018	NA	291621000119109	^ESCT1170724	NA	Cognitive deficit due to and following nontraumatic subarachnoid haemorrhage	EXCLUDE
+3508916017	NA	291621000119109	^ESCT1170728	NA	Cognitive deficit as late effect of spontaneous subarachnoid hemorrhage	EXCLUDE
+3508917014	NA	291621000119109	^ESCT1170729	NA	Cognitive deficit as sequela of nontraumatic subarachnoid hemorrhage	EXCLUDE
+3508918016	NA	291621000119109	^ESCT1170727	NA	Cognitive deficit as late effect of spontaneous subarachnoid haemorrhage	EXCLUDE
+3508919012	NA	291621000119109	^ESCT1170725	NA	Cognitive deficit as sequela of nontraumatic subarachnoid haemorrhage	EXCLUDE
+3508933012	NA	672531000119106	^ESCT1171053	NA	Dysphasia due to and following hemorrhagic cerebrovascular accident	EXCLUDE
+3508934018	NA	672531000119106	^ESCT1171052	NA	Dysphasia due to and following haemorrhagic cerebrovascular accident	EXCLUDE
+3508935017	NA	672531000119106	^ESCT1171056	NA	Dysphasia as late effect of hemorrhagic stroke	EXCLUDE
+3508936016	NA	672531000119106	^ESCT1171057	NA	Dysphasia as sequela of hemorrhagic cerebrovascular accident	EXCLUDE
+3508937013	NA	672531000119106	^ESCT1171055	NA	Dysphasia as late effect of haemorrhagic stroke	EXCLUDE
+3508938015	NA	672531000119106	^ESCT1171054	NA	Dysphasia as sequela of haemorrhagic cerebrovascular accident	EXCLUDE
+3510554018	NA	291091000119102	^ESCT1170681	NA	Monoplegia of left nondominant upper limb as sequela of cerebrovascular accident	EXCLUDE
+3510555017	NA	291091000119102	^ESCT1170682	NA	Monoplegia of left nondominant arm as late effect of stroke	EXCLUDE
+3510556016	NA	291091000119102	^ESCT1170683	NA	Monoplegia of left nondominant upper limb due to and following cerebrovascular accident	EXCLUDE
+3510558015	NA	290931000119108	^ESCT1170679	NA	Monoplegia of lower limb as sequela of cerebrovascular accident	EXCLUDE
+3510559011	NA	290931000119108	^ESCT1170680	NA	Monoplegia of lower limb due to and following cerebrovascular accident	EXCLUDE
+3510561019	NA	291111000119105	^ESCT1170684	NA	Monoplegia of right nondominant arm as late effect of stroke	EXCLUDE
+3510562014	NA	291111000119105	^ESCT1170686	NA	Monoplegia of right nondominant upper limb as sequela of cerebrovascular accident	EXCLUDE
+3510563016	NA	291111000119105	^ESCT1170685	NA	Monoplegia of right nondominant upper limb due to and following cerebrovascular accident	EXCLUDE
+3510565011	NA	291121000119103	^ESCT1170687	NA	Monoplegia of arm as late effect of stroke	EXCLUDE
+3510566012	NA	291121000119103	^ESCT1170689	NA	Monoplegia of upper limb as sequela of cerebrovascular accident	EXCLUDE
+3510567015	NA	291121000119103	^ESCT1170688	NA	Monoplegia of upper limb due to and following cerebrovascular accident	EXCLUDE
+3510586011	NA	674161000119102	^ESCT1171084	NA	Monoplegia of arm as late effect of ischemic stroke	EXCLUDE
+3510587019	NA	674161000119102	^ESCT1171081	NA	Monoplegia of arm as late effect of ischaemic stroke	EXCLUDE
+3510588012	NA	674161000119102	^ESCT1171085	NA	Monoplegia of upper limb as sequela of ischemic cerebrovascular accident	EXCLUDE
+3510589016	NA	674161000119102	^ESCT1171086	NA	Monoplegia of upper limb due to and following ischemic cerebrovascular accident	EXCLUDE
+3510590013	NA	674161000119102	^ESCT1171083	NA	Monoplegia of upper limb as sequela of ischaemic cerebrovascular accident	EXCLUDE
+3510591012	NA	674161000119102	^ESCT1171082	NA	Monoplegia of upper limb due to and following ischaemic cerebrovascular accident	EXCLUDE
+3510802019	NA	291631000119107	^ESCT1170733	NA	Aphasia as sequela of non-traumatic subarachnoid hemorrhage	EXCLUDE
+3510820011	NA	291721000119102	^ESCT1170749	NA	Aphasia as sequela of non-traumatic intracerebral hemorrhage	EXCLUDE
+3510822015	NA	674361000119104	^ESCT1171088	NA	Apraxia as sequela of ischemic cerebrovascular accident	EXCLUDE
+3510824019	NA	290581000119101	^ESCT1170661	NA	Ataxia as sequela of cerebrovascular accident	EXCLUDE
+3510825018	NA	290581000119101	^ESCT1170662	NA	Ataxia as late effect of stroke	EXCLUDE
+3510827014	NA	690201000119109	^ESCT1171128	NA	Ataxia as sequela of embolic cerebrovascular accident	EXCLUDE
+3510829012	NA	674121000119107	^ESCT1171078	NA	Ataxia as sequela of hemorrhagic cerebrovascular accident	EXCLUDE
+3510852011	NA	672461000119104	^ESCT1171036	NA	Hemiplegia of dominant side due to and following ischemic cerebrovascular accident	EXCLUDE
+3510853018	NA	672461000119104	^ESCT1171039	NA	Hemiplegia of dominant side as sequela of ischemic cerebrovascular accident	EXCLUDE
+3510854012	NA	672461000119104	^ESCT1171035	NA	Hemiplegia of dominant side as sequela of ischaemic cerebrovascular accident	EXCLUDE
+3510855013	NA	672461000119104	^ESCT1171038	NA	Hemiplegia of dominant side as late effect of ischemic stroke	EXCLUDE
+3510856014	NA	672461000119104	^ESCT1171037	NA	Hemiplegia of dominant side as late effect of ischaemic stroke	EXCLUDE
+3510858010	NA	690271000119104	^ESCT1171132	NA	Hemiplegia of nondominant side due to and following embolic cerebrovascular accident	EXCLUDE
+3510859019	NA	690271000119104	^ESCT1171130	NA	Hemiplegia of nondominant side as sequela of embolic cerebrovascular accident	EXCLUDE
+3510860012	NA	690271000119104	^ESCT1171131	NA	Hemiplegia of nondominant side as late effect of embolic stroke	EXCLUDE
+3510862016	NA	672441000119103	^ESCT1171031	NA	Hemiplegia of nondominant side due to and following ischemic cerebrovascular accident	EXCLUDE
+3510863014	NA	672441000119103	^ESCT1171034	NA	Hemiplegia of nondominant side as sequela of ischemic cerebrovascular accident	EXCLUDE
+3510864015	NA	672441000119103	^ESCT1171030	NA	Hemiplegia of nondominant side as sequela of ischaemic cerebrovascular accident	EXCLUDE
+3510865019	NA	672441000119103	^ESCT1171033	NA	Hemiplegia of nondominant side as late effect of ischemic stroke	EXCLUDE
+3510866018	NA	672441000119103	^ESCT1171032	NA	Hemiplegia of nondominant side as late effect of ischaemic stroke	EXCLUDE
+3510868017	NA	290791000119105	^ESCT1170677	NA	Fluency disorder due to and following cerebrovascular accident	EXCLUDE
+3510869013	NA	290791000119105	^ESCT1170676	NA	Fluency disorder as sequela of cerebrovascular accident	EXCLUDE
+3510870014	NA	290791000119105	^ESCT1170678	NA	Fluency disorder as late effect of stroke	EXCLUDE
+3511081019	NA	674091000119108	^ESCT1171074	NA	Vertigo as sequela of ischemic cerebrovascular accident	EXCLUDE
+3511082014	NA	674091000119108	^ESCT1171073	NA	Vertigo as late effect of ischemic stroke	EXCLUDE
+3511305015	NA	12367511000119101	^ESCT1172531	NA	Paraplegia due to and following cerebrovascular accident	EXCLUDE
+3511460011	NA	291681000119108	^ESCT1170734	NA	Dysphagia as sequela of non-traumatic subarachnoid haemorrhage	EXCLUDE
+3511461010	NA	291681000119108	^ESCT1170737	NA	Dysphagia as late effect of spontaneous subarachnoid haemorrhage	EXCLUDE
+3511462015	NA	291681000119108	^ESCT1170735	NA	Dysphagia due to and following non-traumatic subarachnoid hemorrhage	EXCLUDE
+3511463013	NA	291681000119108	^ESCT1170738	NA	Dysphagia due to and following non-traumatic subarachnoid haemorrhage	EXCLUDE
+3512902011	NA	690171000119105	^ESCT1171125	NA	Weakness of facial muscle as sequela of embolic cerebrovascular accident	EXCLUDE
+3512903018	NA	690171000119105	^ESCT1171126	NA	Facial weakness as late effect of embolic stroke	EXCLUDE
+3512910012	NA	690331000119109	^ESCT1171133	NA	Speech and language deficit as sequela of embolic cerebrovascular accident	EXCLUDE
+3512911011	NA	690331000119109	^ESCT1171134	NA	Speech and language deficit as late effect of embolic stroke	EXCLUDE
+3512916018	NA	674401000119108	^ESCT1171105	NA	Speech and language deficit as sequela of ischemic cerebrovascular accident	EXCLUDE
+3512917010	NA	674401000119108	^ESCT1171107	NA	Speech and language deficit as late effect of ischemic stroke	EXCLUDE
+3513501015	NA	186831000119104	^ESCT1170641	NA	Apraxia as sequela of cerebrovascular accident	EXCLUDE
+3513502010	NA	186831000119104	^ESCT1170642	NA	Apraxia as late effect of stroke	EXCLUDE
+3513503017	NA	186831000119104	^ESCT1170643	NA	Apraxia due to and following cerebrovascular accident	EXCLUDE
+3513517014	NA	12242711000119109	^ESCT1172520	NA	Weakness of left facial muscle due to and following cerebrovascular accident	EXCLUDE
+3513528013	NA	674381000119108	^ESCT1171095	NA	Weakness of facial muscle due to and following ischemic cerebrovascular accident	EXCLUDE
+3513529017	NA	674381000119108	^ESCT1171094	NA	Weakness of facial muscle due to and following ischaemic cerebrovascular accident	EXCLUDE
+3513530010	NA	15982311000119104	^ESCT1172884	NA	Weakness of left facial muscle due to and following cerebrovascular disease	EXCLUDE
+3513531014	NA	12242751000119105	^ESCT1172524	NA	Weakness of right facial muscle due to and following cerebrovascular accident	EXCLUDE
+3513532019	NA	15982271000119104	^ESCT1172882	NA	Weakness of right facial muscle due to and following cerebrovascular disease	EXCLUDE
+3513557012	NA	674391000119106	^ESCT1171099	NA	Speech and language deficit as sequela of hemorrhagic cerebrovascular accident	EXCLUDE
+3513558019	NA	674391000119106	^ESCT1171101	NA	Speech and language deficit as late effect of hemorrhagic stroke	EXCLUDE
+3513680014	NA	674091000119108	^ESCT1171075	NA	Vertigo due to and following ischemic cerebrovascular accident	EXCLUDE
+3513681013	NA	674091000119108	^ESCT1171072	NA	Vertigo due to and following ischaemic cerebrovascular accident	EXCLUDE
+3513684017	NA	674391000119106	^ESCT1171100	NA	Speech and language deficit due to and following haemorrhagic cerebrovascular accident	EXCLUDE
+3513685016	NA	690331000119109	^ESCT1171135	NA	Speech and language deficit due to and following embolic cerebrovascular accident	EXCLUDE
+3513686015	NA	674401000119108	^ESCT1171104	NA	Speech and language deficit due to and following ischemic cerebrovascular accident	EXCLUDE
+3513687012	NA	674401000119108	^ESCT1171106	NA	Speech and language deficit due to and following ischaemic cerebrovascular accident	EXCLUDE
+3513693016	NA	690171000119105	^ESCT1171127	NA	Weakness of facial muscle due to and following embolic cerebrovascular accident	EXCLUDE
+3513769018	NA	291631000119107	^ESCT1170730	NA	Aphasia as sequela of non-traumatic subarachnoid haemorrhage	EXCLUDE
+3513770017	NA	291721000119102	^ESCT1170746	NA	Aphasia as sequela of non-traumatic intracerebral haemorrhage	EXCLUDE
+3513771018	NA	674391000119106	^ESCT1171102	NA	Speech and language deficit as late effect of haemorrhagic stroke	EXCLUDE
+3513772013	NA	674121000119107	^ESCT1171077	NA	Ataxia as sequela of haemorrhagic cerebrovascular accident	EXCLUDE
+3513773015	NA	674361000119104	^ESCT1171087	NA	Apraxia as sequela of ischaemic cerebrovascular accident	EXCLUDE
+3513774014	NA	674091000119108	^ESCT1171071	NA	Vertigo as sequela of ischaemic cerebrovascular accident	EXCLUDE
+3513775010	NA	674091000119108	^ESCT1171076	NA	Vertigo as late effect of ischaemic stroke	EXCLUDE
+3513776011	NA	674401000119108	^ESCT1171103	NA	Speech and language deficit as sequela of ischaemic cerebrovascular accident	EXCLUDE
+3513777019	NA	674401000119108	^ESCT1171108	NA	Speech and language deficit as late effect of ischaemic stroke	EXCLUDE
+3513778012	NA	674391000119106	^ESCT1171097	NA	Speech and language deficit as sequela of haemorrhagic cerebrovascular accident	EXCLUDE
+3513779016	NA	674391000119106	^ESCT1171098	NA	Speech and language deficit due to and following hemorrhagic cerebrovascular accident	EXCLUDE
+3513780018	NA	291631000119107	^ESCT1170732	NA	Aphasia due to and following non-traumatic subarachnoid hemorrhage	EXCLUDE
+3513781019	NA	291631000119107	^ESCT1170731	NA	Aphasia due to and following non-traumatic subarachnoid haemorrhage	EXCLUDE
+3513782014	NA	291721000119102	^ESCT1170748	NA	Aphasia due to and following non-traumatic intracerebral hemorrhage	EXCLUDE
+3513783016	NA	291721000119102	^ESCT1170747	NA	Aphasia due to and following non-traumatic intracerebral haemorrhage	EXCLUDE
+3513784010	NA	674121000119107	^ESCT1171079	NA	Ataxia due to and following hemorrhagic cerebrovascular accident	EXCLUDE
+3513785011	NA	674121000119107	^ESCT1171080	NA	Ataxia due to and following haemorrhagic cerebrovascular accident	EXCLUDE
+3513786012	NA	674361000119104	^ESCT1171089	NA	Apraxia due to and following ischemic cerebrovascular accident	EXCLUDE
+3513787015	NA	674361000119104	^ESCT1171090	NA	Apraxia due to and following ischaemic cerebrovascular accident	EXCLUDE
+3513788013	NA	290581000119101	^ESCT1170663	NA	Ataxia due to and following cerebrovascular accident	EXCLUDE
+3513790014	NA	690201000119109	^ESCT1171129	NA	Ataxia due to and following embolic cerebrovascular accident	EXCLUDE
+3514426017	NA	674381000119108	^ESCT1171096	NA	Facial weakness as late effect of ischaemic stroke	EXCLUDE
+3517767015	NA	15985031000119102	^ESCT1172889	NA	Neonatal non-traumatic intraventricular hemorrhage	EXCLUDE
+3518235015	NA	15985031000119102	^ESCT1172888	NA	Neonatal non-traumatic intraventricular haemorrhage	EXCLUDE
+3522691000006112	NA	62914000	^ESCTCE352269	NA	Cerebrovascular lesion	EXCLUDE
+3522701000006112	NA	62914000	^ESCTCV352270	NA	CVD - Cerebrovascular disease	EXCLUDE
+3540781000006117	NA	64009001	^ESCTVE354078	NA	Vertebrobasilar arterial insufficiency	EXCLUDE
+3662331000006119	NA	71444005	^ESCTCT366233	NA	CT - Cerebral thrombosis	EXCLUDE
+370711000006115	Gyu6.	62914000	Gyu6	Gyu6.00	[X]Cerebrovascular diseases	EXCLUDE
+371641000000112	7P242	231231000000107	7P242	7P24200	Delivery of rehabilitation for stroke	EXCLUDE
+3764671000006112	NA	77728007	^ESCTST376467	NA	Stroke-hemiplegia rehabilitation	EXCLUDE
+3778011000006112	NA	78569004	^ESCTIN377801	NA	Inferior cerebellar artery syndrome	EXCLUDE
+395777014	G63..	266253001	G63	G63..00	Precerebral arterial occlusion	EXCLUDE
+39691000006110	S6314	450418003	S6314	S631400	Oth cereb h'ge inj + open intracran wnd+>24hr LOC + recovery	EXCLUDE
+39701000006110	S6315	450418003	S6315	S631500	Oth cereb h'ge inj + open intracran wnd+>24hr LOC -restored	EXCLUDE
+39711000006113	S631z	450418003	S631z	S631z00	Oth cereb h'ge inj + open intracran wnd+concussion unspec	EXCLUDE
+39721000006117	S6316	450418003	S6316	S631600	Oth cereb h'ge inj + open intracran wnd+LOC unspec duration	EXCLUDE
+39731000006119	S6304	450418003	S6304	S630400	Oth cereb h'ge inj no open intracran wnd+>24hr LOC +recovery	EXCLUDE
+39741000006112	S6305	450418003	S6305	S630500	Oth cereb h'ge inj no open intracran wnd+>24hr LOC -restored	EXCLUDE
+39751000006114	S630z	450418003	S630z	S630z00	Oth cereb h'ge inj no open intracran wnd+concussion unspec	EXCLUDE
+39761000006111	S6306	450418003	S6306	S630600	Oth cereb h'ge inj no open intracran wnd+LOC unspec duration	EXCLUDE
+39771000006116	S6310	450418003	S6310	S631000	Oth cerebral h'ge inj + open intracran wnd + unspec consc	EXCLUDE
+39781000006118	S6312	450418003	S6312	S631200	Oth cerebral h'ge inj + open intracran wnd+<1hr loss consc	EXCLUDE
+39791000006115	S6313	450418003	S6313	S631300	Oth cerebral h'ge inj + open intracran wnd+1-24hr loss consc	EXCLUDE
+39801000006119	S6311	450418003	S6311	S631100	Oth cerebral h'ge inj + open intracranial wnd+no loss consc	EXCLUDE
+39811000006116	S6302	450418003	S6302	S630200	Oth cerebral h'ge inj no open intracran wnd+<1hr loss consc	EXCLUDE
+39821000006112	S6303	450418003	S6303	S630300	Oth cerebral h'ge inj no open intracran wnd+1-24hr LOC	EXCLUDE
+39831000006110	S6301	450418003	S6301	S630100	Oth cerebral h'ge inj no open intracranial wnd+no loss consc	EXCLUDE
+407291000006117	Gyu6A	62914000	Gyu6A	Gyu6A00	[X]Other cerebrovascular disorders in diseases CE	EXCLUDE
+413750011	1M4..	277286006	1M4	1M4..00	Central post-stroke pain	EXCLUDE
+417171000006111	Fyu57	62914000	Fyu57	Fyu5700	[X]Other vascular syndroms/brain in cerebrovasculr diseases	EXCLUDE
+426321000006116	Gyu6C	195239002	Gyu6C	Gyu6C00	[X]Sequelae of stroke,not specfd as h'morrhage or infarction	EXCLUDE
+426481000006114	Gyu6D	195239002	Gyu6D	Gyu6D00	[X]Sequelae/other + unspecified cerebrovascular diseases	EXCLUDE
+451368019	1477	308064009	1477	1477	H/O: cerebrovascular disease	EXCLUDE
+460286014	ZV125	266995000	ZV125	ZV12500	[V]Personal history of circulatory system disease	EXCLUDE
+4774381000006112	NA	194179009	^ESCTRE477438	NA	Retrobulbar hemorrhage	EXCLUDE
+4774391000006110	NA	194179009	^ESCTRE477439	NA	Retrobulbar hematoma	EXCLUDE
+4774401000006112	NA	194179009	^ESCTRE477440	NA	Retrobulbar haematoma	EXCLUDE
+4778071000006118	NA	195200006	^ESCTCA477807	NA	Carotid artery syndrome	EXCLUDE
+4778311000006112	NA	195239002	^ESCTSE477831	NA	Sequelae of cerebrovascular disease	EXCLUDE
+4778331000006118	NA	195240000	^ESCTSE477833	NA	Sequelae of subarachnoid hemorrhage	EXCLUDE
+4778351000006113	NA	195241001	^ESCTSE477835	NA	Sequelae of intracerebral hemorrhage	EXCLUDE
+4835711000006115	NA	206188000	^ESCTSU483571	NA	Subdural and cerebral hemorrhage due to birth trauma	EXCLUDE
+499739014	G650.	64009001	G650-1	G650.11	Insufficiency - basilar artery	EXCLUDE
+5011251000006113	NA	230703006	^ESCTDY501125	NA	Dysarthria-clumsy hand syndrome	EXCLUDE
+5011261000006110	NA	230704000	^ESCTMU501126	NA	Multi-infarct state	EXCLUDE
+5011271000006115	NA	230704000	^ESCTMI501127	NA	MIS - Multiple infarct state	EXCLUDE
+5011281000006117	NA	230704000	^ESCTMU501128	NA	Multiple infarct state	EXCLUDE
+5011861000006114	NA	230738008	^ESCTAS501186	NA	Asymptomatic cerebrovascular disease	EXCLUDE
+505322013	S62..	450418003	S62	S62..00	Cerebral haemorrhage following injury	EXCLUDE
+543251000006116	L440.	6594005	L440	L440.00	Cerebrovascular disorder in the puerperium	EXCLUDE
+5597041000006114	NA	277286006	^ESCTCP559704	NA	CPSP - Central post-stroke pain	EXCLUDE
+5736641000006113	NA	288723005	^ESCTAC573664	NA	Acute ill-defined cerebrovascular disease	EXCLUDE
+58046010	G651.	34781003	G651	G651.00	Vertebral artery syndrome	EXCLUDE
+5974461000006114	NA	308064009	^ESCTHI597446	NA	History of cerebrovascular disease	EXCLUDE
+6349321000006119	NA	371114002	^ESCTSE634932	NA	Seizures complicating intracranial haemorrhage	EXCLUDE
+6349331000006116	NA	371114002	^ESCTSE634933	NA	Seizures complicating intracranial hemorrhage	EXCLUDE
+6516541000006119	NA	390936003	^ESCTCE651654	NA	Cerebral autosomal dominant arteriopathy with subcortical infarcts and leucoencephalopathy	EXCLUDE
+660121000006113	S62..	450410005	S62-1	S62..11	Traumatic intracranial haemorrhage	EXCLUDE
+67501000006115	G6510	195199008	G6510	G651000	Vertebrobasilar artery syndrome	EXCLUDE
+67511000006117	G65..	64009001	G65-3	G65..13	Vertebro-basilar insufficiency	EXCLUDE
+6880441000006119	NA	415628004	^ESCTST688044	NA	Stroke/transient ischemic attack monitoring first letter	EXCLUDE
+6880461000006115	NA	415629007	^ESCTST688046	NA	Stroke/transient ischemic attack monitoring second letter	EXCLUDE
+6880471000006110	NA	415630002	^ESCTST688047	NA	Stroke/transient ischaemic attack monitoring status	EXCLUDE
+6880481000006113	NA	415630002	^ESCTST688048	NA	Stroke/transient ischemic attack monitoring status	EXCLUDE
+6880501000006115	NA	415631003	^ESCTST688050	NA	Stroke/transient ischemic attack monitoring third letter	EXCLUDE
+6901471000006110	NA	417059002	^ESCTST690147	NA	Stroke/transient ischemic attack monitoring verbal invitation	EXCLUDE
+6908391000006111	NA	417540008	^ESCTST690839	NA	Stroke/transient ischaemic attack monitoring invitation	EXCLUDE
+6908401000006113	NA	417540008	^ESCTST690840	NA	Stroke/transient ischemic attack monitoring invitation	EXCLUDE
+702641000006119	S620.	30400005	S620-1	S620.11	Middle meningeal haemmorhage following injury	EXCLUDE
+7047371000006114	NA	425642008	^ESCTMO704737	NA	Monoplegia of dominant lower limb as a late effect of cerebrovascular accident	EXCLUDE
+7050791000006110	NA	425882004	^ESCTPA705079	NA	Paralytic syndrome as late effect of stroke	EXCLUDE
+7053121000006118	NA	426033005	^ESCTDY705312	NA	Dysphagia as a late effect of cerebrovascular accident	EXCLUDE
+7053131000006115	NA	426033005	^ESCTDY705313	NA	Dysphagia, late effect of stroke	EXCLUDE
+7064311000006116	NA	426788002	^ESCTVE706431	NA	Vertigo as late effect of stroke	EXCLUDE
+7068491000006111	NA	427065003	^ESCTMO706849	NA	Monoplegia of dominant upper limb as a late effect of cerebrovascular accident	EXCLUDE
+7073801000006116	NA	427432001	^ESCTPA707380	NA	Paralytic syndrome as late effect of thalamic stroke	EXCLUDE
+7091901000006119	NA	428668000	^ESCTAP709190	NA	Apraxia due to cerebrovascular accident	EXCLUDE
+7128911000006114	NA	430947007	^ESCTPA712891	NA	Paralytic syndrome of nondominant side as late effect of stroke	EXCLUDE
+7128921000006118	NA	430947007	^ESCTPA712892	NA	Paralytic syndrome of non-dominant side as late effect of stroke	EXCLUDE
+7129091000006111	NA	430959006	^ESCTPA712909	NA	Paralytic syndrome of dominant side as late effect of stroke	EXCLUDE
+7175671000006116	NA	433183000	^ESCTNE717567	NA	Neurogenic bladder as late effect of cerebrovascular accident	EXCLUDE
+7224251000006110	NA	439524005	^ESCTDI722425	NA	Dissection within cavernous sinus for obliteration of carotid artery aneurysm	EXCLUDE
+7240551000006117	NA	440665006	^ESCTCO724055	NA	Compensatory behaviour related to unilateral stroke deficit	EXCLUDE
+7240561000006115	NA	440665006	^ESCTCO724056	NA	Compensatory behavior related to unilateral stroke deficit	EXCLUDE
+7251281000006117	NA	441529001	^ESCTDY725128	NA	Dysphasia as late effect of cerebrovascular disease	EXCLUDE
+7252841000006116	NA	441630004	^ESCTAP725284	NA	Aphasia as late effect of cerebrovascular disease	EXCLUDE
+7254411000006111	NA	441735003	^ESCTSE725441	NA	Sensory disorder as a late effect of cerebrovascular disease	EXCLUDE
+7254771000006114	NA	441759008	^ESCTAB725477	NA	Abnormal vision as a late effect of cerebrovascular disease	EXCLUDE
+7256601000006115	NA	441887006	^ESCTMO725660	NA	Monoplegia of lower limb as late effect of cerebrovascular disease	EXCLUDE
+7256691000006110	NA	441894009	^ESCTMO725669	NA	Monoplegia of nondominant lower limb as a late effect of cerebrovascular accident	EXCLUDE
+7257631000006113	NA	441960006	^ESCTSP725763	NA	Speech and language deficit as late effect of cerebrovascular accident	EXCLUDE
+7257641000006115	NA	441960006	^ESCTSP725764	NA	Speech and language deficit, late effect of stroke	EXCLUDE
+7258071000006119	NA	441991000	^ESCTHE725807	NA	Hemiparesis as late effect of cerebrovascular accident	EXCLUDE
+7258571000006111	NA	442024001	^ESCTHE725857	NA	Hemiplegia as late effect of cerebrovascular disease	EXCLUDE
+7259611000006114	NA	442097001	^ESCTMO725961	NA	Monoplegia of upper limb as late effect of cerebrovascular disease	EXCLUDE
+7260881000006116	NA	442181008	^ESCTMO726088	NA	Monoplegia of nondominant upper limb as a late effect of cerebrovascular accident	EXCLUDE
+7261281000006113	NA	442212003	^ESCTRE726128	NA	Residual cognitive deficit as late effect of cerebrovascular accident	EXCLUDE
+7261291000006111	NA	442212003	^ESCTRE726129	NA	Residual cognitive deficit, late effect of stroke	EXCLUDE
+7266361000006115	NA	442617003	^ESCTAP726636	NA	Aphasia as late effect of cerebrovascular accident	EXCLUDE
+7266721000006113	NA	442668000	^ESCTHE726672	NA	Hemiplegia of nondominant side as late effect of cerebrovascular disease	EXCLUDE
+7266791000006110	NA	442676003	^ESCTHE726679	NA	Hemiplegia of dominant side as late effect of cerebrovascular disease	EXCLUDE
+7267441000006113	NA	442733008	^ESCTHE726744	NA	Hemiplegia as late effect of cerebrovascular accident	EXCLUDE
+7378301000006119	NA	450410005	^ESCTTR737830	NA	Traumatic intracranial hemorrhage	EXCLUDE
+7378411000006114	NA	450418003	^ESCTCE737841	NA	Cerebral hemorrhage following injury	EXCLUDE
+7386761000006111	NA	451035002	^ESCTSU738676	NA	Subpial intracranial haemorrhage	EXCLUDE
+7386771000006116	NA	451035002	^ESCTSU738677	NA	Subpial intracranial hemorrhage	EXCLUDE
+7477221000006110	NA	472746006	^ESCTCE747722	NA	Cerebrovascular disorder due to paradoxical embolus	EXCLUDE
+7512581000006113	NA	698767004	^ESCTPO751258	NA	Post-cerebrovascular accident epilepsy	EXCLUDE
+7519441000006112	NA	699270006	^ESCTCE751944	NA	Cerebrovascular accident annual review	EXCLUDE
+7840001000006117	NA	723083001	^ESCTLA784000	NA	Late effects of cerebral ischaemic stroke	EXCLUDE
+7840011000006119	NA	723083001	^ESCTLA784001	NA	Late effects of cerebral ischemic stroke	EXCLUDE
+7840021000006110	NA	723084007	^ESCTSE784002	NA	Sequela of non-traumatic intracerebral haemorrhage	EXCLUDE
+7840031000006113	NA	723084007	^ESCTSE784003	NA	Sequela of non-traumatic intracerebral hemorrhage	EXCLUDE
+7840041000006115	NA	723084007	^ESCTLA784004	NA	Late effects of non-traumatic intracerebral hemorrhage	EXCLUDE
+7840051000006118	NA	723085008	^ESCTSE784005	NA	Sequela of non-traumatic intracranial subarachnoid haemorrhage	EXCLUDE
+7840061000006116	NA	723085008	^ESCTSE784006	NA	Sequela of non-traumatic intracranial subarachnoid hemorrhage	EXCLUDE
+7840071000006111	NA	723085008	^ESCTLA784007	NA	Late effects of non-traumatic intracranial subarachnoid hemorrhage	EXCLUDE
+7855721000006117	NA	724429004	^ESCTST785572	NA	Stroke and migraine	EXCLUDE
+7965371000006117	NA	361000119103	^ESCTPA796537	NA	Paralytic syndrome on one side of the body as late effect of cerebrovascular accident	EXCLUDE
+7967641000006111	NA	1131000119105	^ESCTSE796764	NA	Sequela of cerebrovascular accident	EXCLUDE
+8006561000006111	NA	18751000119106	^ESCTMO800656	NA	Monoplegia of leg dominant side as sequela of cerebrovascular disease	EXCLUDE
+8006601000006111	NA	18761000119108	^ESCTMO800660	NA	Monoplegia of arm dominant side as sequela of cerebrovascular disease	EXCLUDE
+800691000006113	G671.	302909007	G671	G671.00	Diffuse cerebrovascular disease	EXCLUDE
+8011371000006117	NA	23671000119107	^ESCTSE801137	NA	Sequela of ischaemic cerebral infarction	EXCLUDE
+8011381000006119	NA	23671000119107	^ESCTSE801138	NA	Sequela of ischemic cerebral infarction	EXCLUDE
+8013501000006117	NA	26021000119107	^ESCTVE801350	NA	Vertigo as sequela of cerebrovascular disease	EXCLUDE
+8014261000006116	NA	29941000119105	^ESCTAT801426	NA	Ataxia as sequela of cerebrovascular disease	EXCLUDE
+8014911000006110	NA	33301000119105	^ESCTSE801491	NA	Sequela of cardioembolic stroke	EXCLUDE
+8014931000006116	NA	33331000119103	^ESCTSE801493	NA	Sequela of lacunar stroke	EXCLUDE
+8016411000006110	NA	40161000119102	^ESCTWE801641	NA	Weakness of face muscles as sequela of stroke	EXCLUDE
+8017381000006110	NA	46421000119102	^ESCTBE801738	NA	Behaviour disorder as sequela of cerebral infarction	EXCLUDE
+8017391000006113	NA	46421000119102	^ESCTBE801739	NA	Behavior disorder as sequela of cerebral infarction	EXCLUDE
+8017621000006119	NA	48601000119107	^ESCTHE801762	NA	Hemiplegia and/or hemiparesis following stroke	EXCLUDE
+8017631000006116	NA	48601000119107	^ESCTPA801763	NA	Paralytic syndrome on one side of the body as effect of cerebrovascular accident	EXCLUDE
+8026081000006119	NA	87551000119101	^ESCTVI802608	NA	Visual disturbance as sequela of cerebrovascular disease	EXCLUDE
+8028251000006119	NA	91601000119109	^ESCTSE802825	NA	Sequela of thrombotic stroke	EXCLUDE
+8028711000006113	NA	92341000119107	^ESCTWE802871	NA	Weakness of extremities as sequela of stroke	EXCLUDE
+8032101000006111	NA	102831000119104	^ESCTPA803210	NA	Paralytic syndrome of both lower limbs as sequela of stroke	EXCLUDE
+8032111000006114	NA	102831000119104	^ESCTPA803211	NA	Paraplegia or paraparesis as sequela of stroke	EXCLUDE
+8032331000006118	NA	103761000119107	^ESCTPA803233	NA	Paralytic syndrome of all four limbs as sequela of stroke	EXCLUDE
+8032341000006111	NA	103761000119107	^ESCTTE803234	NA	Tetraplegia or tetraparesis as sequela of stroke	EXCLUDE
+8034181000006112	NA	108691000119102	^ESCTSP803418	NA	Spasticity as sequela of stroke	EXCLUDE
+8034191000006110	NA	108691000119102	^ESCTSP803419	NA	Spasticity as late effect of cerebrovascular accident	EXCLUDE
+8042111000006110	NA	133981000119106	^ESCTDY804211	NA	Dysarthria as late effects of cerebrovascular disease	EXCLUDE
+8042121000006119	NA	133991000119109	^ESCTFL804212	NA	Fluency disorder as sequela of cerebrovascular disease	EXCLUDE
+8042441000006116	NA	134771000119108	^ESCTAL804244	NA	Alteration of sensation as late effect of stroke	EXCLUDE
+8043371000006110	NA	137991000119103	^ESCTSE804337	NA	Seizure disorder as sequela of stroke	EXCLUDE
+8044141000006119	NA	140281000119108	^ESCTHE804414	NA	Hemiparesis as late effect of cerebrovascular disease	EXCLUDE
+8046321000006118	NA	145741000119101	^ESCTAP804632	NA	Apraxia as late effect of cerebrovascular disease	EXCLUDE
+8046801000006116	NA	148871000119109	^ESCTWE804680	NA	Weakness as a late effect of stroke	EXCLUDE
+8046811000006118	NA	148871000119109	^ESCTWE804681	NA	Weakness as a late effect of cerebrovascular accident	EXCLUDE
+8195421000006116	NA	519751000000106	^ESCTCE819542	NA	Cerebrovascular accident (CVA) 6 month review	EXCLUDE
+8195431000006118	NA	519751000000106	^ESCTST819543	NA	Stroke/cerebrovascular accident 6 month review	EXCLUDE
+841051000006113	G678.	390936003	G678	G678.00	Cerebral autosomal dominant arteriopathy with subcortical infarcts and leukoencephalopathy	EXCLUDE
+884491000006117	G63z.	584161000000109	G63z-99	G63z.99	Precerebral A. occlusion NOS	EXCLUDE
+884561000006114	G68..	195239002	G68-99	G68..99	Cerebrovasc. dis. late effects	EXCLUDE
+894091000006111	Q200.	206196005	Q200-99	Q200.99	Cerebral haemorrhage - birth	EXCLUDE
+894331000006110	Q411.	70611002	Q411-99	Q411.99	Fetal cerebral haemorrhage	EXCLUDE
+896531000006110	S62..	82894007	S62-99	S62..99	Cerebral h'ge after injury	EXCLUDE
+966981000006112	8HHM.	112901000000108	8HHM	8HHM.00	Referral to multidisciplinary stroke function improvement service	EXCLUDE
+986831000006115	9Om3.	417059002	9Om3	9Om3.00	Stroke/transient ischaemic attack monitoring verbal invitation	EXCLUDE
