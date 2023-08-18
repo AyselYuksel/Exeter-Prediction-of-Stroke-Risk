@@ -42,48 +42,13 @@ risperidone_match <- risperidone_match%>%
   mutate(ProdCodeId = as.character(ProdCodeId))
 risperidone_match
 
-prod_codes = codesets$loadProdCodeSet(risperidone_match, category="Term.from.EMIS", "risperidone", '20/06/2023', colname="ProdCodeId")
+# insertion of the risperidone product codes to codesets table on MySQL CPRD database
+prod_codes = codesets$loadProdCodeSet(risperidone_match, category="Term.from.EMIS", "risperidone", '19/06/2023', colname="ProdCodeId")
 prod_codes
 
-#risperdal
-drug_names_risperdal <- c("risperdal", "okedi", "perseris","rykindo","risperlet")
-risperdal_match <- filter(drug_prodcodes, grepl(paste(drug_names_risperdal, collapse = '|'), Term.from.EMIS, ignore.case=TRUE) | grepl('risperidone', "DrugSubstanceName", ignore.case=TRUE)  )
 
 
-View(others_match)
 
-write.table(risperdal_match, file="risperdal_prod_codes.txt", sep="\t", row.names=FALSE, quote=FALSE)
-
-cprd = CPRDData$new(cprdEnv = "analysis",
-                    cprdConf = "/Users/ayselyuksel/Documents/EXETER_HDS_DOCUMENT/RESEARCH_PROJECT/R_Codes/aurum.yaml")
-codesets = cprd$codesets()
-risperdal_match <- risperdal_match%>%
-  mutate(ProdCodeId = as.character(ProdCodeId))
-risperdal_match
-
-prod_codes_risperdal = codesets$loadProdCodeSet(risperdal_match, category="Term.from.EMIS", "risperdal", '21/06/2023', colname="ProdCodeId")
-prod_codes_risperdal
-
-
-#other_drugs
-
-drug_names_others <- c("risperdal", "okedi", "perseris","rykindo","risperlet") #change this part
-others_match <- filter(drug_prodcodes, grepl(paste(drug_names_others, collapse = '|'), Term.from.EMIS, ignore.case=TRUE) | grepl('risperidone', "DrugSubstanceName", ignore.case=TRUE)  )
-
-
-View(others_match)
-
-write.table(others_match, file="other_antipsychotics_prod_codes.txt", sep="\t", row.names=FALSE, quote=FALSE)
-
-cprd = CPRDData$new(cprdEnv = "analysis",
-                    cprdConf = "/Users/ayselyuksel/Documents/EXETER_HDS_DOCUMENT/RESEARCH_PROJECT/R_Codes/aurum.yaml")
-codesets = cprd$codesets()
-others_match <- others_match%>%
-  mutate(ProdCodeId = as.character(ProdCodeId))
-others_match
-
-prod_codes_others = codesets$loadProdCodeSet(others_match, category="Term.from.EMIS", "other_antipsychotics", '22/06/2023', colname="ProdCodeId")
-prod_codes_others
 
 
 

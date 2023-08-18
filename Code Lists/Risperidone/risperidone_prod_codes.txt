@@ -1,0 +1,17 @@
+ProdCodeId	dmdid	Term.from.EMIS	ProductName	Formulation	RouteOfAdministration	DrugSubstanceName	SubstanceStrength	BNFChapter	DrugIssues
+1173941000033117	321597002	Risperidone 1mg/ml oral solution sugar free	Risperidone 1mg/ml oral solution sugar free	Oral solution	Oral	Risperidone	1.000mg/1.000ml	4020100	300000
+1176641000033117	321589009	Risperidone 1mg tablets	Risperidone 1mg tablets	Tablet	Oral	Risperidone	1.000mg	4020100	2000000
+1176741000033114	321590000	Risperidone 2mg tablets	Risperidone 2mg tablets	Tablet	Oral	Risperidone	2.000mg	4020100	1000000
+1176841000033116	321591001	Risperidone 3mg tablets	Risperidone 3mg tablets	Tablet	Oral	Risperidone	3.000mg	4020100	700000
+1176941000033112	321592008	Risperidone 4mg tablets	Risperidone 4mg tablets	Tablet	Oral	Risperidone	4.000mg	4020100	600000
+1177741000033111	321599004	Risperidone 6mg tablets	Risperidone 6mg tablets	Tablet	Oral	Risperidone	6.000mg	4020100	90000
+2188241000033110	321602009	Risperidone 500microgram tablets	Risperidone 500microgram tablets	Tablet	Oral	Risperidone	500.000microgram	4020100	2000000
+2780141000033112	4559111000001109	Risperidone 25mg powder and solvent for suspension for injection vials	Risperidone 25mg powder and solvent for suspension for injection vials	Powder and solvent for suspension for injection	Intramuscular	Risperidone	25.000mg	4020200	10000
+2780241000033117	4176911000001105	Risperidone 37.5mg powder and solvent for suspension for injection vials	Risperidone 37.5mg powder and solvent for suspension for injection vials	Powder and solvent for suspension for injection	Intramuscular	Risperidone	37.500mg	4020200	10000
+2780341000033110	4177011000001109	Risperidone 50mg powder and solvent for suspension for injection vials	Risperidone 50mg powder and solvent for suspension for injection vials	Powder and solvent for suspension for injection	Intramuscular	Risperidone	50.000mg	4020200	20000
+2868841000033116	4054011000001109	Risperidone 1mg orodispersible tablets sugar free	Risperidone 1mg orodispersible tablets sugar free	Orodispersible tablet	Oral	Risperidone	1.000mg	4020100	40000
+2868941000033112	4054111000001105	Risperidone 2mg orodispersible tablets sugar free	Risperidone 2mg orodispersible tablets sugar free	Orodispersible tablet	Oral	Risperidone	2.000mg	4020100	40000
+3246041000033119	9045911000001108	Risperidone 500microgram orodispersible tablets sugar free	Risperidone 500microgram orodispersible tablets sugar free	Orodispersible tablet	Oral	Risperidone	500.000microgram		60000
+4012041000033116	11140811000001104	Risperidone 3mg orodispersible tablets sugar free	Risperidone 3mg orodispersible tablets sugar free	Orodispersible tablet	Oral	Risperidone	3.000mg		10000
+4012141000033117	11140911000001100	Risperidone 4mg orodispersible tablets sugar free	Risperidone 4mg orodispersible tablets sugar free	Orodispersible tablet	Oral	Risperidone	4.000mg		10000
+13581641000033116	38696711000001104	Risperidone 250microgram tablets	Risperidone 250microgram tablets	Tablet	Oral	Risperidone	250.000microgram		10000
