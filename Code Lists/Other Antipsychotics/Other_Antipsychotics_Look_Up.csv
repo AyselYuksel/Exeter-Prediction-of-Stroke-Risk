@@ -1,0 +1,209 @@
+﻿brand_id,brand_names,generic_names,ap_type
+1,olanzapine,olanzapine,atypical
+1,olanzapine embonate,olanzapine,atypical
+1,olanzepine,olanzapine,atypical
+1,zalasta,olanzapine,atypical
+1,zypadhera,olanzapine,atypical
+1,zyprexa,olanzapine,atypical
+1,zentiva,olanzapine,atypical
+2,clozapine,clozapine,atypical
+2,clozepine,clozapine,atypical
+2,clozpine,clozapine,atypical
+2,clozaril,clozapine,atypical
+2,denzapine,clozapine,atypical
+2,zaponex,clozapine,atypical
+3,abilify,aripiprazole,atypical
+3,abilify mainten,aripiprazole,atypical
+3,aripipazole,aripiprazole,atypical
+3,aripiprazol,aripiprazole,atypical
+3,aripiprazole,aripiprazole,atypical
+3,aripirazole,aripiprazole,atypical
+3,aripriprazol,aripiprazole,atypical
+3,aripriprazole,aripiprazole,atypical
+3,ariprizole,aripiprazole,atypical
+3,arpiprazole,aripiprazole,atypical
+4,atrolak,quetiapine,atypical
+4,biquelle,quetiapine,atypical
+4,brancico,quetiapine,atypical
+4,ebesque,quetiapine,atypical
+4,mintreleq,quetiapine,atypical
+4,psyquet,quetiapine,atypical
+4,quatiapine,quetiapine,atypical
+4,queitapine,quetiapine,atypical
+4,quethiapine,quetiapine,atypical
+4,quetiapine,quetiapine,atypical
+4,quetiepine,quetiapine,atypical
+4,quitiapine,quetiapine,atypical
+4,seotiapim,quetiapine,atypical
+4,seroquel,quetiapine,atypical
+4,sondate,quetiapine,atypical
+4,tenprolide,quetiapine,atypical
+4,zaluron,quetiapine,atypical
+5,chlorpromazine,chlorpromazine,typical
+5,largactil,chlorpromazine,typical
+5,ormazine,chlorpromazine,typical
+5,thorazine,chlorpromazine,typical
+5,thorazine spansule,chlorpromazine,typical
+5,hibernal,chlorpromazine,typical
+5,megaphen,chlorpromazine,typical
+6,haldol,haloperidol,typical
+6,haldol decanoate,haloperidol,typical
+6,haliperidol,haloperidol,typical
+6,haloperidol,haloperidol,typical
+6,haloperidol decanoate,haloperidol,typical
+6,serenace,haloperidol,typical
+7,ziprasidone,ziprasidone,atypical
+7,ziprasidone hydrochloride,ziprasidone,atypical
+7,geodon,ziprasidone,atypical
+8,invega,paliperidone,atypical
+8,paliperidone,paliperidone,atypical
+8,palliperidone,paliperidone,atypical
+8,trevicta,paliperidone,atypical
+8,xeplion,paliperidone,atypical
+8,invega sustenna,paliperidone,atypical
+8,invega trinza,paliperidone,atypical
+8,invega hafyera,paliperidone,atypical
+9,fluphenazine,fluphenazine,typical
+9,fluphenazine decanoate,fluphenazine,typical
+9,fluphenazine hydrochloride,fluphenazine,typical
+9,modecate,fluphenazine,typical
+9,permitil,fluphenazine,typical
+9,prolixin,fluphenazine,typical
+9,prolixin decanoate,fluphenazine,typical
+9,prolixin enanthate,fluphenazine,typical
+9,moditen ,fluphenazine,typical
+10,stelazine,trifluoperazine,typical
+10,trifluoperazine,trifluoperazine,typical
+10,eskazinyl,trifluoperazine,typical
+10,eskazine,trifluoperazine,typical
+10,jatroneural,trifluoperazine,typical
+11,asenapine,asenapine,atypical
+11,saphris,asenapine,atypical
+11,secuado,asenapine,atypical
+11,sycrest,asenapine,atypical
+12,trilafon,asenapine,atypical
+12,fentazin,perphenazine,typical
+12,perphenazine,perphenazine,typical
+13,latuda,lurasidone,atypical
+13,lurasidone,lurasidone,atypical
+14,amisulperide,amisulpride,atypical
+14,amisulphide,amisulpride,atypical
+14,amisulpiride,amisulpride,atypical
+14,amisulpride,amisulpride,atypical
+14,barhemsys,amisulpride,atypical
+14,solian,amisulpride,atypical
+15,orap,pimozide,typical
+15,pimozide,pimozide,typical
+16,fanapt,iloperidone,atypical
+16,zomaril,iloperidone,atypical
+17,cariprazine,cariprazine,atypical
+17,vraylar,cariprazine,atypical
+17,reaglia,cariprazine,atypical
+18,compazine ,prochlorperazine,typical
+18,compro,prochlorperazine,typical
+18,stemetil,prochlorperazine,typical
+18,stemzine,prochlorperazine,typical
+18,buccastem,prochlorperazine,typical
+18,ametil,prochlorperazine,typical
+18,antinaus,prochlorperazine,typical
+18,bukatel,prochlorperazine,typical
+18,chlormeprazine,prochlorperazine,typical
+18,chloropernazine,prochlorperazine,typical
+18,compazine,prochlorperazine,typical
+18,compro,prochlorperazine,typical
+18,daolin,prochlorperazine,typical
+18,dhaperazine,prochlorperazine,typical
+18,dhaperazine,prochlorperazine,typical
+18,emedrotec,prochlorperazine,typical
+18,emetiral,prochlorperazine,typical
+18,eminorm,prochlorperazine,typical
+18,lotamin,prochlorperazine,typical
+18,mitil,prochlorperazine,typical
+18,mormal,prochlorperazine,typical
+18,nautisol,prochlorperazine,typical
+18,novamin,prochlorperazine,typical
+18,novomit,prochlorperazine,typical
+18,proazine,prochlorperazine,typical
+18,procalm,prochlorperazine,typical
+18,prochlorperazin,prochlorperazine,typical
+18,prochlorperazine,prochlorperazine,typical
+18,prochlorperazinum,prochlorperazine,typical
+18,prochlozine,prochlorperazine,typical
+18,proclorperazina,prochlorperazine,typical
+18,promat,prochlorperazine,typical
+18,promin,prochlorperazine,typical
+18,promtil,prochlorperazine,typical
+18,roumin,prochlorperazine,typical
+18,scripto-metic,prochlorperazine,typical
+18,seratil,prochlorperazine,typical
+18,steremal,prochlorperazine,typical
+18,vergon,prochlorperazine,typical
+18,vestil,prochlorperazine,typical
+18,volimin,prochlorperazine,typical
+19,dolmatil,sulpiride,atypical
+19,sulpiride,sulpiride,atypical
+19,sulpor,sulpiride,atypical
+19,sulpiride-teva,sulpiride,atypical
+19,deniban,sulpiride,atypical
+19,sulpiride rosemont,sulpiride,atypical
+19,sulpitac,sulpiride,atypical
+20,rexulti,brexpiprazole,atypical
+20,rxulti,brexpiprazole,atypical
+21,clopixol,zuclopenthixol,typical
+21,clopixol acuphase,zuclopenthixol,typical
+21,acuphase,zuclopenthixol,typical
+21,zuclopenthixol,zuclopenthixol,typical
+21,zuclopentixol,zuclopenthixol,typical
+21,zuclopenthixol acetate,zuclopenthixol,typical
+21,zuclopenthixol decanoate,zuclopenthixol,typical
+21,zuclopenthixol hydrochloride,zuclopenthixol,typical
+21,cisordinol,zuclopenthixol,typical
+21,zuclopentixol,zuclopenthixol,typical
+22,sparine,promazine,typical
+22,promazine,promazine,typical
+23,depixol,flupentixol,typical
+23,depixol-conc,flupentixol,typical
+23,flupenthixol,flupentixol,typical
+23,flupentixol,flupentixol,typical
+23,flupentixol decanoate,flupentixol,typical
+23,flupentixol hydrochloride,flupentixol,typical
+23,psytixol,flupentixol,typical
+23,fluanxol,flupentixol,typical
+24,levinan,levomepromazine,typical
+24,levomeprom,levomepromazine,typical
+24,levomepromazine,levomepromazine,typical
+24,levomepromazine hydrochloride,levomepromazine,typical
+24,levomepromazine maleate,levomepromazine,typical
+24,nozinan,levomepromazine,typical
+24,veractil,levomepromazine,typical
+24,methotrimeprazine,levomepromazine,typical
+24,levomepromazine hydrochloride wockhardt u,levomepromazine,typical
+25,pericyazine,pericyazine,typical
+25,periciazine,pericyazine,typical
+25,propericiazine,pericyazine,typical
+26,anquil,benperidol,typical
+26,frenactil,benperidol,typical
+27,risperdal,risperidone,atypical
+27,risperidal,risperidone,atypical
+27,consta,risperidone,atypical
+27,risp consta,risperidone,atypical
+27,risperdal consta,risperidone,atypical
+27,risperdol consta,risperidone,atypical
+27,risperidal consta,risperidone,atypical
+27,risperidone consta,risperidone,atypical
+27,okedi,risperidone,atypical
+27,perseris,risperidone,atypical
+27,rykindo,risperidone,atypical
+27,risperlet,risperidone,atypical
+28,buronil,melperone,atypical
+28,eunerpan,melperone,atypical
+28,melperone,melperone,typical
+29,piportil,piportil,typical
+29,piportil depot,piportil,typical
+30,pipothiazine,pipotiazine,typical
+30,pipothiazine palmitate,pipotiazine,typical
+30,pipotiazine,pipotiazine,typical
+30,pipotiazine palmitate,pipotiazine,typical
+31,melleril,thioridazine,typical
+31,thioridazine,thioridazine,typical
+31,mellaril,thioridazine,typical
