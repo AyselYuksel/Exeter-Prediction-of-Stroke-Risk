@@ -38,19 +38,20 @@ analysis
 # Merge observation table with dementia codes
 dem_obs_codes <- cprd$tables$observation %>% inner_join(codes$dementia) %>% analysis$cached("dem_obs_codes", indexes=c("patid", "obsdate"))
 
-
 dem_obs_codes
+#count(distinct patid) 318,188
+dem_obs_codes  %>%  distinct(patid) %>% summarise(count = n_distinct(patid)) 
 
 # count(distinct patid) from observation
 dem_obs_full <- cprd$tables$observation %>% distinct(patid) %>% summarise(count = n_distinct(patid)) %>% analysis$cached("dem_obs_full", indexes=c("count"))
 dem_obs_full
-
+# obs_full count = 15718230
 
 
 # count(distinct patid) from patient
 patient_full <- cprd$tables$patient %>% distinct(patid) %>% summarise(count = n_distinct(patid)) %>% analysis$cached("patient_full", indexes=c("count"))
 patient_full
-
+#patient_full 49,102,289
 
 ######################################################################################################################
 
@@ -58,7 +59,7 @@ patient_full
 stroke_obs_codes <- cprd$tables$observation %>% inner_join(codes_stroke$stroke, by="medcodeid") %>% analysis$cached("stroke_obs_codes", indexes=c("patid", "obsdate"))
 
 stroke_obs_codes
-
+#stroke obs_full 258,170
 
 #####################################
 # RISPERIDONE COHORT
@@ -82,13 +83,15 @@ dem_pat_first_obs
 
 dem_pat_first_obs <- dem_pat_first_obs %>% analysis$cached("dem_pat_first_obs", indexes=c("patid", "first_obsdate"))
 
+dem_pat_first_obs
+# distinct dementia patient count #302,368
+dem_pat_first_obs  %>% distinct(patid) %>% summarise(count = n_distinct(patid)) 
 
 #drug issue
 
 risp_codes <- cprd$tables$drugIssue %>% inner_join(codes$risperidone) %>% analysis$cached("risp_codes", indexes=c("patid", "issuedate"))
+risp_codes
 
-
-#risperidone_drug_codes
 
 
 # Step 2: Identify all patients from Step 1 with a risperidone prescription ever
@@ -124,6 +127,8 @@ dem_pat_risp_after_dem
 
 dem_pat_risp_after_dem <- dem_pat_risp_after_dem %>% analysis$cached("dem_pat_risp_after_dem", indexes=c("patid"))
 
+dem_pat_risp_after_dem #1935
+dem_pat_risp_after_dem  %>% distinct(patid) %>% summarise(count = n_distinct(patid)) 
 
 # Step 6: For all patients in step 5, define their study index date (date of first risperidone prescription) and
 # study end date (earliest of: date of practice deregistration [regenddate], date of death [emis_ddate],
@@ -143,8 +148,8 @@ dem_cohort_risperidone
 
 dem_cohort_risperidone <- dem_cohort_risperidone %>% analysis$cached("dem_cohort_risperidone", indexes=c("patid"))
 
-
-
+#count cohort_risperidone 1935
+dem_cohort_risperidone %>% count()
 
 
 #####################################
@@ -174,6 +179,9 @@ dem_pat_over_65
 dem_pat_over_65 <- dem_pat_over_65 %>% analysis$cached("dem_pat_over_65", indexes=c("patid"))
 dem_pat_over_65
 
+# who reach age 65 at any date during the study period (Jan 2000-June 2021) or before 294228
+dem_pat_over_65 %>% count()
+
 # Never prescribed risperidone
 dem_never_risp <- dem_pat_over_65 %>%
   select(patid, pracid.x, first_obsdate, dob, yob, mob, regenddate, emis_ddate, gender) %>%
@@ -183,6 +191,11 @@ dem_never_risp
 
 dem_never_risp <- dem_never_risp %>% analysis$cached("dem_never_risp", indexes=c("patid"))
 dem_never_risp
+
+# count dementia patient over 65 and never prescribed risperidone 291647
+dem_never_risp %>% count()
+
+
 
 # Study end date (earliest of: date of practice deregistration [regenddate], date of death [emis_ddate],
 # last collection date [lcd] in Practice table, date of end of study period [01/06/2021].
@@ -202,6 +215,9 @@ dem_cohort_control
 
 dem_cohort_control <- dem_cohort_control %>% analysis$cached("dem_cohort_control", indexes=c("patid"))
 dem_cohort_control
+
+# count cohort_control 291647
+dem_cohort_control %>% count()
 #####################################
 # COMBINED RISPERIDONE AND CONTROL COHORTS
 ######################################
@@ -236,14 +252,17 @@ df_report
 # Nearest neighbour matching on age and sex, with up to 10 controls per risperidone case
 #The vignettes here explain what match it is doing and how to extract the cases and controls after matching https://cran.r-project.org/web/packages/MatchIt/
 
+df_report2 <- data.frame(df_report)
+df_report2$sex <- ifelse(df_report2$sex == 1, 0, 1 )
+df_report2
 
-match_report <- matchit(case_control ~ age + sex , data = data.frame(df_report), method = "nearest", distance = "glm", ratio= 10)
+match_report <- matchit(case_control ~ age + sex , data = df_report2, method = "nearest", distance = "glm", ratio= 10)
 match_report
 summary(match_report)
 
 # 4. Extract the matched patients and assign each control the same index date as the index date of their matched risperidone patient
 
-match.t <- get_matches(match_report, data = data.frame(df_report), distance = "glm") #Gets you the matches
+match.t <- get_matches(match_report, data = df_report2, distance = "glm") #Gets you the matches
 table(match.t$case_control)
 
 match.t
@@ -368,7 +387,7 @@ df_stroke_beforeindex
 df_stroke_in12monthsafterindex <- main_dem_stroke5 %>% group_by(case_control, stroke_in12monthsafterindex) %>% count()
 df_stroke_in12monthsafterindex
 
-#6 History of stroke (stroke_in12monthsafterindex):  
+#6 History of stroke (stroke_anyafterindex):  
 df_stroke_anyafterindex <- main_dem_stroke5 %>% group_by(case_control, stroke_anyafterindex) %>% count()
 df_stroke_anyafterindex
 
